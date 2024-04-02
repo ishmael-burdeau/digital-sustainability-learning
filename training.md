@@ -3,7 +3,7 @@ The following is a list of material designed to support those in technical roles
 
 ## Essential training and resources 
 
-### Green software training 
+### 1. Green software training 
 These two courses are essential for understanding the basics of Green Software and should only take a couple of hours to complete. They are free and open to all.
 
 - [ ]  **Sustainable software engineering overview**
@@ -11,7 +11,15 @@ Great into video series by Asim Hussain (GSF). Very digestible, only takes about
 - [ ]  **Green Software Practitioner**
 Slightly more in-depth online course. Takes 2-3 hours to complete. Recommended. https://learn.greensoftware.foundation/
 
-### Guidelines
+### 2. Videos
+
+- [ ] **Beth yw cynaliadwyedd digidol? / What is digital sustainability?** Panel discussion by the Centre for Digital Public Services in Wales. Covers all the main topics related to digital sustainability, especially from a UK government perspective. Panelists include Hannah Smith from the Green Web Foundation as well experts from Defra, Wholegrain Digital and the Centre for Sustainability. Despite the title, the content is all in English. The first 25 minutes are devoted to each panelist speaking for 5 minutes, followed by a wider discussion. It's generally a non-technical discusson, so suitable for all. 1 hour 12 minutes, but broken up into clear chapters. 
+https://youtu.be/Wn5urKcquFE?si=84Th0OkXNlEPjvGd
+
+- [ ]  **What does it all mean: Net-zero, carbon neutral, climate positive, carbon negative? by Asim Hussain** Good breakdown of some of the crucial terminology, focussed speficically on digital emissions. 20 minutes, broken into clear chapters. 
+https://youtu.be/HXEnbi64TdQ?si=Ff4eGg2uo4OUxsQm 
+
+### 3. Guidelines
 Be familiar with the following and refer back to them as needed
 - [ ] **Green Software Maturity Matrix**. Self-evaluation tool to help organisations and teams understand their level of maturity in this area. https://maturity-matrix.greensoftware.foundation/
 - [ ] **W3C Web Sustainability Guidelines, 1.0.** A new initiative, covers business, design and technology aspects of digital services. See https://w3c.github.io/sustyweb/. Condensed version: https://w3c.github.io/sustyweb/glance.html and quick reference: https://w3c.github.io/sustyweb/quickref.html
@@ -20,24 +28,40 @@ Be familiar with the following and refer back to them as needed
 
 ## Websites to explore
 
-### Carbon intensity tools
-* Electricity Maps - https://app.electricitymaps.com/map 
-* Natinal Grid API - https://www.carbonIntensity.org.uk
+### 1. Carbon intensity tools
+* **Electricity Maps:** emissions factors worldwide. https://app.electricitymaps.com/map 
+* **National Grid API:** UK regional emissions factors. https://www.carbonIntensity.org.uk
+* **BBC Carbon Minimiser:** open source Python tool which uses the national grid API to provide UK carbon forecasts. https://github.com/bbc/carbon-minimiser 
 
+### 2. Web page analysis tools
+Web-based tools to rate web pages in terms of sustainability. Only useful for analysis of the front end.  
+* **Beacon** - https://digitalbeacon.co/
+* **Ecograder** - https://ecograder.com/
+* **Globemallow** - https://globemallow.io/#api
 
-## Embodied Carbon 
-* https://dataviz.boavizta.org/terminalimpact 
+### 3. Embodied carbon 
+* **Datavizta:** Part of the open source Boavizta project. Multicritera user devices impactshttps://dataviz.boavizta.org/terminalimpact 
+* **Resilio database:** API with access to detailed LCA data of many common devices and servers. Accounts for national/regional carbon intensity. https://db.resilio.tech/
 
 ## Optional training materials 
-### Online courses
+### 1. Online courses
 These two courses are both very good and recommended if you have the time. 
-- [ ] **Career Essentials in Sustainable Tech by Microsoft and LinkedIn.** About 3.5 hours. A good overall introduction to the topic of sustainability. Covers areas such as Net Zero, carbon accounting, the circular economy, LCAs, procurement as well as some light-touch information on why digital services must also transition to being sustainable. The digital part of the course makes some claims that could be questioned or challenged. 
+- [ ] **Career Essentials in Sustainable Tech by Microsoft and LinkedIn.** About 3.5 hours. A good overall introduction to the topic of sustainability. Covers areas such as Net Zero, carbon accounting, the circular economy, LCAs, procurement as well as some light-touch information on why digital services must also transition to being sustainable. The digital part of the course makes some claims that could be questioned or challenged. Requires a LinkedIn account. 
 https://www.linkedin.com/learning/paths/career-essentials-in-sustainable-tech-by-microsoft-and-linkedin
 - [ ]  **Sustainable Software Engineering**
 Fairly in-depth course with some Python coding examples. Takes 6-8 hours to complete, but the videos may be blocked for some as they are on Vimeo. Note that the graded coding exercises are not available in self-paced mode. The pace can be a little slow at times, but there are some very good arguments and examples made. Part 1 is focussed on the problem of digital emissions and higher-level thinking, while Part 2 is more focussed on technical approaches. Part 1 is strongly recommended for all, while Part 2 is a little weaker.
 https://open.hpi.de/courses/sustainablesoftware2022
 
-### Books and articles 
+**BCS - Green IT training**
+Access requires BCS membership.
+Full list at: https://discover.bcs.org/search-results/?topic=eco-it
+Not reviewed yet.
+- [ ] [**Discovering green IT: an introduction to technology and sustainability**](https://discover.bcs.org/online-course/discovering-green-it-an-introduction-to-technology-and-sustainability/) (e-learning, £30+VAT)
+- [ ] [**Driving sustainability: exploring green IT policies and their impact**](https://discover.bcs.org/online-course/driving-sustainability-exploring-green-it-policies-and-their-impact/) (e-learning, £30+VAT)
+- [ ] [**Avoiding greenwashing: identifying and addressing the risks and roles in green IT**](https://discover.bcs.org/online-course/avoiding-greenwashing-identifying-and-addressing-the-risks-and-roles-in-green-it/) (e-learning, £30+VAT)
+articles/engineering-sustainable-ai-systems/) (free article) - high-level summary article from late 2021.
+
+### 2. Books
 - [ ] **Building Green Software**.
 Good and very broad introduction to Green Software. Aimed more at those new to Green Software, it covers all the main topics. Could be strengthened by more practical examples or how-to advice.  
 https://learning.oreilly.com/library/view/building-green-software/9781098150617/  
@@ -45,24 +69,41 @@ https://learning.oreilly.com/library/view/building-green-software/9781098150617/
 Free whitepaper (44 pages). Good and easy-to-read summary of the issues and some approaches to addressing them.
 https://www.scaleway.com/en/blog/how-can-engineers-make-it-more-sustainable-part-1/
 
-## Podcasts 
-- [ ]   **Green io**. Recommended. https://greenio.gaelduez.com/ 
-- [ ]   **Environment variables**. Podcast by the Green Software Foundation. Recommended. https://podcast.greensoftware.foundation
+### 3. Podcasts 
+- [ ]   **Environment variables:** weekly podcast by the Green Web Foundation. Often technical, covers a wide range of topics. Recommended. https://podcast.greensoftware.foundation
+- [ ]   **Green IO:** weekly podcast hosted by Gaël Duez on green software and ICT. Recommended. https://greenio.gaelduez.com/ 
 
+### 4. Articles to read
+There are hundreds of recent articles on these topics, here is a sampling of a few which are of interest.
 
+#### General interest
+* **The Staggering Ecological Impacts of Computation and the Cloud** - https://thereader.mitpress.mit.edu/the-staggering-ecological-impacts-of-computation-and-the-cloud/
+* **The UK government's IT carbon footprint has got worse - the transparency is welcome** - https://www.csofutures.com/news/the-uk-governments-it-carbon-footprint-has-got-worse-and-thats-not-all-bad-news/
+* How can engineers make IT more sustainable? Part 1: It’s holistic - https://www.scaleway.com/en/blog/how-can-engineers-make-it-more-sustainable-part-1/ 
 
+#### Data centres 
+* **Amazon, Google, Microsoft: Here's Who Has the Greenest Cloud** - https://www.wired.com/story/amazon-google-microsoft-green-clouds-and-hyperscale-data-centers/
+* **Why Cloud Zombies Are Destroying the Planet and How You Can Stop Them** - https://www.infoq.com/news/2023/03/stop-cloud-zombies-qcon/
 
-## Articles to read
+#### Hardware and e-waste 
+* **Your old phone is full of precious metals** - https://www.bbc.com/future/article/20161017-your-old-phone-is-full-of-precious-metals
+* **UN report: Time to seize opportunity, tackle challenge of e-waste** - https://www.unep.org/news-and-stories/press-release/un-report-time-seize-opportunity-tackle-challenge-e-waste
 
-https://www.wired.com/story/amazon-google-microsoft-green-clouds-and-hyperscale-data-centers/
+#### Data
+* **Data is the new plastic** - https://www.swctn.org.uk/2021/03/23/data-is-the-new-plastic-part-1/
+* **IT leaders ‘oblivious’ to the environmental impact of ‘unwanted’ data, research shows** - https://www.computerweekly.com/news/366551312/IT-leaders-oblivious-to-the-environmental-impact-of-unwanted-data-research-shows
 
-https://www.nature.com/articles/s42256-020-0219-9 (AI)
+#### AI
+* **The carbon impact of artificial intelligence** - https://www.nature.com/articles/s42256-020-0219-9
+* **AI likely to increase energy use and accelerate climate misinformation** - https://www.theguardian.com/technology/2024/mar/07/ai-climate-change-energy-disinformation-report
 
-https://www.bbc.com/future/article/20161017-your-old-phone-is-full-of-precious-metals
+#### BCS articles
+* [The greening of IT: what it is and why it's significant](https://discover.bcs.org/webinars/the-greening-of-it-what-it-is-and-why-its-significant/) (free webinar) - 1 hour presentation by Deloitte, broad-ranging and gives a good overview of key problems and terminology. 
+* [AI and climate change](https://discover.bcs.org/webinars/ai-and-climate-change/) (free webinar) - 3 talks by top female computer scientists. The first talk is not sustainability/climate related, the sustainability talks start at 27:50. Talk 2 looks at the overall impact of ICT on the environment, which is good and fairly high level, but also based on some good researtch. Covers most of the standard subject areas. Full paper here: https://www.cell.com/patterns/fulltext/S2666-3899%2821%2900188-4. The final talk covers machine learning and AI, and is quite high-level. No mention of LLMs.
+* [The sustainability challenges facing digital transformation](https://discover.bcs.org/articles/the-sustainability-challenges-facing-digital-transformation/) (free article) - published in late 2021, this article refers to the pandemic a lot, and is more of an awaremess and aspiration piece. It also includes some questionable claims about Google searches. 
+* [The IT practitioner of the future](https://discover.bcs.org/articles/the-it-practitioner-of-the-future/) (free article) - good article explaining that technologists must understand and work to improve the ESG profile of technology
 
-https://www.swctn.org.uk/2021/03/23/data-is-the-new-plastic-part-1/
-
-https://www.economist.com/graphic-detail/2022/07/22/do-men-and-women-think-about-climate-change-differently
+* [Engineering sustainable AI systems](https://discover.bcs.org/articles/engineering-sustainable-ai-systems/) (free article) - high-level summary article from late 2021.
 
 ## Glossary
 Make sure you are familiar with the following concepts and terminology.
@@ -70,6 +111,8 @@ Make sure you are familiar with the following concepts and terminology.
 **Carbon forecasting and timeshifting**: in countries such as the UK with a distinctly mixed energy grid, the emissions generated by using electricity can vary dramatically throughout the day or week, based on environmental and market conditions. A bright and windy day will typically mean that emissions can be very low, while a dull and windless day will mean that the same kWh produce far higher amounts of CO2. Carbon forecasting uses the predicted weather to look for ‘green windows’ of time. The https://github.com/bbc/carbon-minimiser is a good way to get started with this in the UK, and the Green Software Foundation has also produced the https://github.com/Green-Software-Foundation/carbon-aware-sdk which works at country level. 
 
 **Carbon intensity**: the carbon cost or producing electricity, based on the local energy mix. In the UK, this is typically a mixture of gas, nuclear, wind and solar. In western Europe, countries with high intensities (over 400g per kWh) include Poland, Czechia and Germany, all of which rely on coal for much of all of their power generation. Countries with very low carbon intensity include Iceland, Norway and Sweden, which use energy sources such as hydro, geothermal or nuclear. See https://app.electricitymaps.com/map for an interactive map/tool for a global view and https://www.carbonintensity.org.uk/ for a UK regional view. Both services have very useful APIs to support activities such as demand shifting.
+
+**Circular economy:** an economic model which moves away from our current 'take-make-waste' model towards one which works towards keeping materials and products in the system for as long as possible. Examples of circular economic models in ICT include practices such as repairing, refurbishing or remanufaturing devices rather than purchasing new and then disposing and/or recycling the waste. 
 
 **Demand shifting**: in Green Software development and GreenOps, there is the opportunity to locate servers or activities in regions where the carbon intensity is lower. This could mean moving some or all of your activity in a country or region with a cleaner grid, such as Sweden or Scotland. It could also mean using carbon forecasting (for example using https://github.com/bbc/carbon-minimiser) to schedule some activities when your local grid is greener. 
 
