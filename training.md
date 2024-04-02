@@ -4,19 +4,17 @@ The following is a list of material designed to support those in technical roles
 ## Essential training and resources 
 
 ### Green software training 
+These two courses are essential for understanding the basics of Green Software and should only take a couple of hours to complete. They are free and open to all.
 
 - [ ]  **Sustainable software engineering overview**
-https://learn.microsoft.com/en-us/training/modules/sustainable-software-engineering-overview/
-Great into video series by Asim Hussain (GSF). Very digestible, only takes about 30 minutes to complete. 
+Great into video series by Asim Hussain (GSF). Very digestible, only takes about 30 minutes to complete. https://learn.microsoft.com/en-us/training/modules/sustainable-software-engineering-overview/
 - [ ]  **Green Software Practitioner**
-https://learn.greensoftware.foundation/
-Slightly more in-depth online course. Takes 2-3 hours to complete. Recommended. 
-- [ ]  **Green Software Practitioner**
+Slightly more in-depth online course. Takes 2-3 hours to complete. Recommended. https://learn.greensoftware.foundation/
 
 ### Guidelines
 Be familiar with the following and refer back to them as needed
 - [ ] **Green Software Maturity Matrix**. Self-evaluation tool to help organisations and teams understand their level of maturity in this area. https://maturity-matrix.greensoftware.foundation/
-- [ ] **W3C Web Sustainability Guidelines, 1.0.** A brand new initiative, covers business, design and technology aspects of digital services. See https://w3c.github.io/sustyweb/. Condensed version: https://w3c.github.io/sustyweb/glance.html and quick reference: https://w3c.github.io/sustyweb/quickref.html
+- [ ] **W3C Web Sustainability Guidelines, 1.0.** A new initiative, covers business, design and technology aspects of digital services. See https://w3c.github.io/sustyweb/. Condensed version: https://w3c.github.io/sustyweb/glance.html and quick reference: https://w3c.github.io/sustyweb/quickref.html
 - [ ] **GOV.UK Technology Code of Practice**. Point 12 outlines the GOV.UK position on sustainability in ICT. See https://www.gov.uk/guidance/make-your-technology-sustainable 
 
 
@@ -28,32 +26,24 @@ Be familiar with the following and refer back to them as needed
 
 
 ## Embodied Carbon 
-* https://github.com/rarecoil/laptop-co2e 
 * https://dataviz.boavizta.org/terminalimpact 
-
-
-
-
-
-
-
 
 ## Optional training materials 
 ### Online courses
 These two courses are both very good and recommended if you have the time. 
-- [ ] **Career Essentials in Sustainable Tech by Microsoft and LinkedIn.** About 3.5 hours. A good overall introduction to the topic of sustainability. Covers areas such as Net Zero, carbon accounting, the circular economy, LCAs, procurement as well as some light-touch information on why digital services must also transition to being sustainable. The digital part of the course makes some fairly exaggerated claims that should be questioned or challenged. 
+- [ ] **Career Essentials in Sustainable Tech by Microsoft and LinkedIn.** About 3.5 hours. A good overall introduction to the topic of sustainability. Covers areas such as Net Zero, carbon accounting, the circular economy, LCAs, procurement as well as some light-touch information on why digital services must also transition to being sustainable. The digital part of the course makes some claims that could be questioned or challenged. 
 https://www.linkedin.com/learning/paths/career-essentials-in-sustainable-tech-by-microsoft-and-linkedin
 - [ ]  **Sustainable Software Engineering**
+Fairly in-depth course with some Python coding examples. Takes 6-8 hours to complete, but the videos may be blocked for some as they are on Vimeo. Note that the graded coding exercises are not available in self-paced mode. The pace can be a little slow at times, but there are some very good arguments and examples made. Part 1 is focussed on the problem of digital emissions and higher-level thinking, while Part 2 is more focussed on technical approaches. Part 1 is strongly recommended for all, while Part 2 is a little weaker.
 https://open.hpi.de/courses/sustainablesoftware2022
-Fairly in-depth course with some Python coding examples. Takes 6-8 hours to complete, but the videos are blocked by DWP security (they are on Vimeo). Note that the graded coding exercises are not available in self-paced mode. The pace can be a little slow at times, but there are some very good arguments and examples made. Part 1 is focussed on the problem of digital emissions and higher-level thinking, while Part 2 is more focussed on technical approaches. Part 1 is strongly recommended for all, while Part 2 is a little weaker.
 
 ### Books and articles 
 - [ ] **Building Green Software**.
+Good and very broad introduction to Green Software. Aimed more at those new to Green Software, it covers all the main topics. Could be strengthened by more practical examples or how-to advice.  
 https://learning.oreilly.com/library/view/building-green-software/9781098150617/  
-Good and very broad introduction to Green Software. Aimed more at those new to Green Software, it covers all the main topics. Would have been strengthened by more practical examples or how-to advice.  
 - [ ] **How can engineers make IT more sustainable?**
-https://www.scaleway.com/en/blog/how-can-engineers-make-it-more-sustainable-part-1/
 Free whitepaper (44 pages). Good and easy-to-read summary of the issues and some approaches to addressing them.
+https://www.scaleway.com/en/blog/how-can-engineers-make-it-more-sustainable-part-1/
 
 ## Podcasts 
 - [ ]   **Green io**. Recommended. https://greenio.gaelduez.com/ 
@@ -73,8 +63,6 @@ https://www.bbc.com/future/article/20161017-your-old-phone-is-full-of-precious-m
 https://www.swctn.org.uk/2021/03/23/data-is-the-new-plastic-part-1/
 
 https://www.economist.com/graphic-detail/2022/07/22/do-men-and-women-think-about-climate-change-differently
-
-
 
 ## Glossary
 Make sure you are familiar with the following concepts and terminology.
