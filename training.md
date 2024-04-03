@@ -59,7 +59,6 @@ Not reviewed yet.
 - [ ] [**Discovering green IT: an introduction to technology and sustainability**](https://discover.bcs.org/online-course/discovering-green-it-an-introduction-to-technology-and-sustainability/) (e-learning, £30+VAT)
 - [ ] [**Driving sustainability: exploring green IT policies and their impact**](https://discover.bcs.org/online-course/driving-sustainability-exploring-green-it-policies-and-their-impact/) (e-learning, £30+VAT)
 - [ ] [**Avoiding greenwashing: identifying and addressing the risks and roles in green IT**](https://discover.bcs.org/online-course/avoiding-greenwashing-identifying-and-addressing-the-risks-and-roles-in-green-it/) (e-learning, £30+VAT)
-articles/engineering-sustainable-ai-systems/) (free article) - high-level summary article from late 2021.
 
 ### 2. Books
 - [ ] **Building Green Software**.
