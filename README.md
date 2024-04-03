@@ -1,7 +1,7 @@
 Training recommendations for digital roles, including: 
-## Technical (architects, engineers and related roles)
+## [Technical](training.md)
 ## Design
-## Leadership
+## Leadership 
 ## Engagement
 ## Data
 ## Delivery 
