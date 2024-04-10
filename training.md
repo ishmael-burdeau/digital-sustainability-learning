@@ -1,5 +1,5 @@
 # Digital sustainability
-The following is a list of material designed to support those in technical roles to reach a level of Practioner. Completing the optional material will put you on the path towards expert level. 
+The following is a list of material designed to support those in technical roles to reach a level of Practioner. Completing the optional material will put you on the path towards Expert level. 
 
 ## Essential training and resources 
 
@@ -7,9 +7,9 @@ The following is a list of material designed to support those in technical roles
 These two courses are essential for understanding the basics of Green Software and should only take a couple of hours to complete. They are free and open to all.
 
 - [ ]  **Sustainable software engineering overview**
-Great into video series by Asim Hussain (GSF). Very digestible, only takes about 30 minutes to complete. https://learn.microsoft.com/en-us/training/modules/sustainable-software-engineering-overview/
+Great into video series by Asim Hussain (Green Software Foundation). Very digestible, only takes about 30 minutes to complete. https://learn.microsoft.com/en-us/training/modules/sustainable-software-engineering-overview/
 - [ ]  **Green Software Practitioner**
-Slightly more in-depth online course. Takes 2-3 hours to complete. Recommended. https://learn.greensoftware.foundation/
+Slightly more in-depth online course. Takes 2-3 hours to complete. Recommended. Take the short exam to get certified. https://learn.greensoftware.foundation/
 
 ### 2. Videos
 
@@ -78,11 +78,14 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 #### General interest
 * **The Staggering Ecological Impacts of Computation and the Cloud** - https://thereader.mitpress.mit.edu/the-staggering-ecological-impacts-of-computation-and-the-cloud/
 * **The UK government's IT carbon footprint has got worse - the transparency is welcome** - https://www.csofutures.com/news/the-uk-governments-it-carbon-footprint-has-got-worse-and-thats-not-all-bad-news/
-* How can engineers make IT more sustainable? Part 1: It’s holistic - https://www.scaleway.com/en/blog/how-can-engineers-make-it-more-sustainable-part-1/ 
+* **How can engineers make IT more sustainable? Part 1: It’s holistic** - https://www.scaleway.com/en/blog/how-can-engineers-make-it-more-sustainable-part-1/ 
+* **Sustainability, a surprisingly successful KPI: GreenOps survey results** - https://climateaction.tech/blog/sustainability-kpi-greenops-survey-results/
 
 #### Data centres 
 * **Amazon, Google, Microsoft: Here's Who Has the Greenest Cloud** - https://www.wired.com/story/amazon-google-microsoft-green-clouds-and-hyperscale-data-centers/
 * **Why Cloud Zombies Are Destroying the Planet and How You Can Stop Them** - https://www.infoq.com/news/2023/03/stop-cloud-zombies-qcon/
+* **Understanding the results of cloud providers' carbon calculators** - https://boavizta.org/en/blog/calculettes-carbone-clouds-providers
+* **Clouded II: Does Cloud Cost the Earth?** - https://www.clouded.tv/ (trailer at https://www.youtube.com/watch?v=CPLMyY71_eM)
 
 #### Hardware and e-waste 
 * **Your old phone is full of precious metals** - https://www.bbc.com/future/article/20161017-your-old-phone-is-full-of-precious-metals
