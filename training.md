@@ -52,18 +52,11 @@ https://www.linkedin.com/learning/paths/career-essentials-in-sustainable-tech-by
 Fairly in-depth course with some Python coding examples. Takes 6-8 hours to complete, but the videos may be blocked for some as they are on Vimeo. Note that the graded coding exercises are not available in self-paced mode. The pace can be a little slow at times, but there are some very good arguments and examples made. Part 1 is focussed on the problem of digital emissions and higher-level thinking, while Part 2 is more focussed on technical approaches. Part 1 is strongly recommended for all, while Part 2 is a little weaker.
 https://open.hpi.de/courses/sustainablesoftware2022
 
-**BCS - Green IT training**
-Access requires BCS membership.
-Full list at: https://discover.bcs.org/search-results/?topic=eco-it
-Not reviewed yet.
-- [ ] [**Discovering green IT: an introduction to technology and sustainability**](https://discover.bcs.org/online-course/discovering-green-it-an-introduction-to-technology-and-sustainability/) (e-learning, £30+VAT)
-- [ ] [**Driving sustainability: exploring green IT policies and their impact**](https://discover.bcs.org/online-course/driving-sustainability-exploring-green-it-policies-and-their-impact/) (e-learning, £30+VAT)
-- [ ] [**Avoiding greenwashing: identifying and addressing the risks and roles in green IT**](https://discover.bcs.org/online-course/avoiding-greenwashing-identifying-and-addressing-the-risks-and-roles-in-green-it/) (e-learning, £30+VAT)
-
 ### 2. Books
 - [ ] **Building Green Software**.
 Good and very broad introduction to Green Software. Aimed more at those new to Green Software, it covers all the main topics. Could be strengthened by more practical examples or how-to advice.  
 https://learning.oreilly.com/library/view/building-green-software/9781098150617/  
+- [ ] **Digital Sustainability: The Need for Greener Software.** Similar to the previous title, a solid and succinct introduction to the topic. https://www.amazon.co.uk/gp/product/B0CYXVD5L2/
 - [ ] **How can engineers make IT more sustainable?**
 Free whitepaper (44 pages). Good and easy-to-read summary of the issues and some approaches to addressing them.
 https://www.scaleway.com/en/blog/how-can-engineers-make-it-more-sustainable-part-1/
