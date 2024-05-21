@@ -19,6 +19,8 @@ https://youtu.be/Wn5urKcquFE?si=84Th0OkXNlEPjvGd
 - [ ]  **What does it all mean: Net-zero, carbon neutral, climate positive, carbon negative? by Asim Hussain** Good breakdown of some of the crucial terminology, focussed speficically on digital emissions. 20 minutes, broken into clear chapters. 
 https://youtu.be/HXEnbi64TdQ?si=Ff4eGg2uo4OUxsQm 
 
+* [ ] **BBC News: AI Decoded** Excellent report on the environmental impacts of AI with a panel of very knowledgable experts. Although it's about AI, it covers many other important areas of digital sustainability. https://www.youtube.com/watch?v=fjNacsyp28s
+
 ### 3. Guidelines
 Be familiar with the following and refer back to them as needed
 - [ ] **Green Software Maturity Matrix**. Self-evaluation tool to help organisations and teams understand their level of maturity in this area. https://maturity-matrix.greensoftware.foundation/
