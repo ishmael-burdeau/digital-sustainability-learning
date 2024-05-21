@@ -1,7 +1,8 @@
 Training recommendations for digital roles, including: 
-## [Technical](training.md)
-## Design
-## Leadership 
-## Engagement
-## Data
-## Delivery 
+## [Getting started](newbies.md)
+## [Technical](technologists.md)
+## [Design](designers.md)
+## [Leadership](leaders.md)
+## [Engagement](communicators.md)
+## [Data](data-analysts.md)
+## [Product and delivery](product-and-deliver-managers.gd)
