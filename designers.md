@@ -13,7 +13,7 @@ Slightly more in-depth online course. Takes 2-3 hours to complete. Recommended. 
 
 ### 2. Videos
 
-- [ ] **Tom Greenwood: A sustainable web for everyone** Tom Greenwood was the lead author of the Sustainable Web Manifesto, edits the monthly green web newsletter, Curiously Green, and is author of the book, Sustainable Web Design. This 36 minute presentation by Tom is divided up into small, digestible chunks and covers all the key topics in a non-technical way. 
+- [ ] **Tom Greenwood: A sustainable web for everyone** Tom Greenwood was the lead author of the Sustainable Web Manifesto, edits the monthly green web newsletter, Curiously Green, and is author of the book, Sustainable Web Design. This 36 minute presentation by Tom is divided up into small, digestible chunks and covers all the key topics in a non-technical way. https://www.youtube.com/watch?v=ebxeXqjesOo
 
 - [ ] **Beth yw cynaliadwyedd digidol? / What is digital sustainability?** Panel discussion by the Centre for Digital Public Services in Wales. Covers all the main topics related to digital sustainability, especially from a UK government perspective. Panellists include Hannah Smith from the Green Web Foundation as well experts from Defra, Wholegrain Digital and the Centre for Sustainability. Despite the title, the content is all in English. The first 25 minutes are devoted to each panelist speaking for 5 minutes, followed by a wider discusson. It's generally a non-technical discusson, so suitable for all. 1 hour 12 minutes, but broken up into clear chapters. 
 https://youtu.be/Wn5urKcquFE?si=84Th0OkXNlEPjvGd
@@ -61,7 +61,7 @@ Web-based tools to rate web pages in terms of sustainability. Only useful for an
 As the title suggests, this is more design than engineering focussed. It’s a good introduction to the area of Green Software, but is a little lacking in terms of detail or real-world examples. But it’s a fairly easy read. https://learning.oreilly.com/library/view/sustainable-web-design/9781098128807/ 
 
 **Design for a Better World: Meaningful, Sustainable, Humanity Centered** by Don Norman 
-New book by one of the world's leading design thinkers. Don Norman has recently abandoned the notion of being 'user centred' in favour of 'humanity centred'. This is an accessible read and one for anyone concerned about how best to design for a sustainable future.  
+New book by one of the world's leading design thinkers. Don Norman has recently abandoned the notion of being 'user centred' in favour of 'humanity centred'. This is an accessible read and one for anyone concerned about how best to design for a sustainable future. https://www.amazon.co.uk/Design-Better-World-Meaningful-Sustainable-ebook/dp/B0B4R7Z4ZH
 
 **The Life-centred Design Guide** by Damian Lutz
 Lots of interesting and sometimes practical ways to bring non-human needs into the design process. Thought-provoking. https://www.amazon.co.uk/Life-centred-Design-Guide-Damien-Lutz/dp/0645326658
@@ -113,7 +113,7 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 
 ### Accessibility and sustainability  
 
-* **How to Prioritize Digital Accessibility and Sustainability** - high level summary of some of the key areas where these overlap. 
+* **How to Prioritize Digital Accessibility and Sustainability** - high level summary of some of the key areas where these overlap. https://www.mightybytes.com/blog/digital-accessibility-web-sustainability/
 
 * **What can digital sustainability learn from accessibility?** - If you are familiar with web accessibility but new to web sustainability, this article should help you see some of the overlaps and how you can use your existing skills to improve the sustainability of your design work. https://branch.climateaction.tech/issues/issue-8/what-can-digital-sustainability-learn-from-accessibility/
 
