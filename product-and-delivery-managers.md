@@ -117,29 +117,3 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 
 ## Glossary
 Are you new to terms like Scope 3, GHGs, the Rebound Effect SDGs? If so, please make use of the glossary to get familiar with the relevant concepts and terminology. [Digital sustainability glossary](glossary.md).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- [ ] **ClimateActionTech** https://www.youtube.com/channel/UCbGj6AM6oTSxqBlhMQlaplw
-
