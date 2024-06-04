@@ -32,7 +32,7 @@ There are many communities which are worth joining within the government and pub
 
 ### Videos
 
-* **The Systems Iceberg Explained** - A systems thinking model that is useful when considering approaches to addressing issues such as sustainability and the environment. https://www.youtube.com/watch?v=y6h2_EcOOcM
+- [ ] **The Systems Iceberg Explained** - A systems thinking model that is useful when considering approaches to addressing issues such as sustainability and the environment. https://www.youtube.com/watch?v=y6h2_EcOOcM
 
 - [ ]  **What does it all mean: Net-zero, carbon neutral, climate positive, carbon negative? by Asim Hussain** - Good breakdown of some of the crucial terminology, focussed specifically on digital emissions. 20 minutes, broken into clear chapters. 
 https://youtu.be/HXEnbi64TdQ?si=Ff4eGg2uo4OUxsQm 
