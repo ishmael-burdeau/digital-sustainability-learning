@@ -1,7 +1,7 @@
 # Digital sustainability for communicators
-The following is a list of material designed to support those wishing to influence others in the change process. No matter what your day job or official role is, the ability to communicate effectively is vital. Working through most of the  material will build your confidence as a Practitioner. Completing the all the material will put you on the path towards Expert. 
+The following is a list of material designed to support those wishing to influence others in the change process. No matter what your day job or official role is, the ability to communicate effectively is vital. Working through some of the  material will build your confidence as a Practitioner, especially the material in Essentials. Completing the most of the material will put you on the path towards Expert. 
 
-## Essentials
+## 1. Essentials
 
 ### Communities to join (suggestion - join 2)
 
@@ -49,6 +49,8 @@ The following 2 tools help calculate your online footprint. Sadly there is no re
 * https://myimpact.isit-europe.org/. Excellent tool for estimating the emissions from typical work and home digital activities. Unfortunately the calculator only has carbon intensity data for France, Belgium and the Netherlands. Belgium is the most similar to the UK for this (see https://app.electricitymaps.com to understand this further). 
 
 * https://impactco2.fr/usagenumerique/. Related to the previous site, but with some very good calculations for things like sending emails and use of network (4G vs. Wifi). It's in French and uses French emissions factors, which makes it less than ideal. But still an excellent tool and reference source. The French are certainly leading in this area. 
+
+## 2. Everything else
 
 ### Other websites to explore (suggestion - explore 2)
 
