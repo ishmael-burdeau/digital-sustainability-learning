@@ -3,7 +3,8 @@ The following is a list of material designed to support those wishing to influen
 
 ## Essentials
 
-### Communities to join
+### Communities to join (suggestion - join 2)
+
 There are many communities which are worth joining within the government and public sector which can increase your knowledge and expand your network. 
 
 #### Digital sustainability  
@@ -19,7 +20,7 @@ There are many communities which are worth joining within the government and pub
 
 - [ ]  **Institute of Environmental Management and Assessment (IEMA**). A global professional body which has good representation in the UK public sector. Your department should be able to fund your membership. https://www.iema.net/
 
-## Activities 
+## Activities (try - join 1)
 - [ ] **Community 10,000**. DWP-supported volunteering initiative. If you are not in DWP, then ask, your department or employer may offer something similar. Volunteering on nature-based activities is a great way to reconnect and engage with other like-minded people. https://dwpdigital.blog.gov.uk/2020/03/13/digging-wheelbarrows-and-picks-dwp-digital-volunteers-in-the-community/
 
 - [ ] **Climate Fresk**. Climate Fresk originated in France, but is now a global phenomenon. It's a low-cost 3-hour workshop (in person or virtual) in which attendees collaborate to understand the interconnection of human activity and climate change. The word 'fresk' is short for 'fresco', as the workshop uses a visual collage to bring together the ideas. Once you have attended a Climate Fresk, there is the opportunity to take a short training course to become a facilitator. Find a Climate Fresk local to you at https://climatefresk.org/world/
@@ -30,7 +31,7 @@ There are many communities which are worth joining within the government and pub
 
 - [ ] **Giki Zero**. There are quite a few online carbon calculators and apps, Giki has a free website and mobile app to help you calculate your own footprint, combined with education, nudges and challenges. Why not test it out on your own or with a few colleagues or friends? https://zero.giki.earth/  
 
-### Videos
+### Videos (suggestion - watch 2)
 
 - [ ] **The Systems Iceberg Explained** - A systems thinking model that is useful when considering approaches to addressing issues such as sustainability and the environment. https://www.youtube.com/watch?v=y6h2_EcOOcM
 
@@ -41,7 +42,7 @@ https://youtu.be/HXEnbi64TdQ?si=Ff4eGg2uo4OUxsQm
 
 * **Clouded II: Does Cloud Cost the Earth?** - Feature-length documentary on the environmental impacts of cloud computing. Engrossing, even for non-techies. https://www.clouded.tv/ (trailer at https://www.youtube.com/watch?v=CPLMyY71_eM)
 
-### Digital footprint tools
+### Digital footprint tools (suggestion - try 1)
 
 The following 2 tools help calculate your online footprint. Sadly there is no reliable UK-based calculator (yet), soo these european ones will have to do for now. 
 
@@ -49,7 +50,7 @@ The following 2 tools help calculate your online footprint. Sadly there is no re
 
 * https://impactco2.fr/usagenumerique/. Related to the previous site, but with some very good calculations for things like sending emails and use of network (4G vs. Wifi). It's in French and uses French emissions factors, which makes it less than ideal. But still an excellent tool and reference source. The French are certainly leading in this area. 
 
-### Other websites to explore 
+### Other websites to explore (suggestion - explore 2)
 
 * **Electricity Maps** - the leading tool for understanding carbon intensity.  https://app.electricitymaps.com/map
 * **UK National Grid maps** - there are many sites and APIs offering this, here are some good ones. https://www.carbonintensity.org.uk/, https://www.energydashboard.co.uk/live and https://electricityproduction.uk/ 
@@ -58,11 +59,13 @@ The following 2 tools help calculate your online footprint. Sadly there is no re
 * **Reslio IT hardware database** - amazing list of hardware and its environmental impact. https://db.resilio.tech/ 
 * **NASA Global Climate Change Interactives** - wide range of interactive visualisations related to climate and environment. https://climate.nasa.gov/explore/interactives/
 
-### Books and longer reads
+### Books and longer reads (suggestion - read 1)
 
 The following are recommended for anyone wishing to discuss climate and environmental issues, which is often challenging. For books related to digital sustainability, check the [technologists learning pathway](technologists.md)
 
 - [ ] **Britain Talks Climate** Free, in-depth resource by the group Climate Outreach. The report segments the British public into 7 broad groups and suggests strategies for engagement based on values. https://climateoutreach.org/reports/britain-talks-climate/
+
+- [ ] **Talking Climate: From Research to Practice in Public Engagement** This books challenges assumptions around climate communications – for example myths around what motivates people. Available from the DWP Library for free at https://research.ebsco.com/c/uy344d/search/details/txrfyo7sub or on Climate Outreach at https://climateoutreach.org/reports/book-talking-climate-from-research-to-practice-in-public-engagement/ (first chapter is free) 
 
 - [ ] **How Bad Are Bananas?** The definitive book on the carbon cost of everything. Very easy to read a pick up in small chunks. Answers some hard questions and makes some excellent comparisons between different products and activities. https://howbadarebananas.com/ 
 
@@ -72,7 +75,7 @@ The following are recommended for anyone wishing to discuss climate and environm
 
 - [ ] **Not the End of the World** If you are looking for an optimistic read, this is worth checking out. Hannah Ritchie from Our World in Data, goes pretty deep to take apart some of the more common misunderstandings around the wider questions of sustainability (nt just climate change). A very hopeful read, but also challenging in many places, as she takes apart many of the myths of eco-doomerism. https://www.amazon.co.uk/Not-End-World-Generation-Sustainable/dp/1784745006 
 
-### Articles to read
+### Articles to read (suggestion - read 2 or 3 that look interesting)
 There are hundreds of recent articles on these topics, here is a sampling of a few which are of interest.
 
 #### General interest
@@ -109,7 +112,7 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 * **Globally representative evidence on the actual and perceived support for climate action** - global survey results from 130,000 people on attitudes towards climate change. https://www.nature.com/articles/s41558-024-01925-3
 * **Sustainability, a surprisingly successful KPI: GreenOps survey results** - survey  results, indicating that tech workers care more about carbon than cost, and the benefits of a GreenOps approach. https://climateaction.tech/blog/sustainability-kpi-greenops-survey-results/
 
-### Podcasts
+### Podcasts (suggestion - listen to 1 episode form each category)
 #### Technology 
 - [ ]   **Environment variables:** weekly podcast by the Green Web Foundation. Often technical, covers a wide range of topics. Recommended. https://podcast.greensoftware.foundation
 - [ ]   **Green IO:** weekly podcast hosted by Gaël Duez on green software and ICT. Recommended. https://greenio.gaelduez.com/ 
@@ -124,7 +127,7 @@ https://www.civilserviceenvironmentnetwork.org/environment-deep-dive
 * **The Anti-Dread Climate Podcast**. US-based podcast with short, punchy episodes which help answer a myriad of sustainability questions. 
 https://www.kcrw.com/culture/shows/the-anti-dread-climate-podcast
 
-### People to follow
+### People to follow (suggestion - follow 2 or 3)
 LinkedIn is a very useful tool for engaging with the Green IT movement. The following individuals have made some outstanding contributions to digital sustainability and are worth following.
 
 * **Anne Currie** - co-author of Building Green Software, green software trainer and advocate. https://www.linkedin.com/in/annecurrie/
