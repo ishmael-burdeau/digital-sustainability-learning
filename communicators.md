@@ -20,7 +20,7 @@ There are many communities which are worth joining within the government and pub
 
 - [ ]  **Institute of Environmental Management and Assessment (IEMA**). A global professional body which has good representation in the UK public sector. Your department should be able to fund your membership. https://www.iema.net/
 
-## Activities (try - join 1)
+## Activities (suggestion - try 1)
 - [ ] **Community 10,000**. DWP-supported volunteering initiative. If you are not in DWP, then ask, your department or employer may offer something similar. Volunteering on nature-based activities is a great way to reconnect and engage with other like-minded people. https://dwpdigital.blog.gov.uk/2020/03/13/digging-wheelbarrows-and-picks-dwp-digital-volunteers-in-the-community/
 
 - [ ] **Climate Fresk**. Climate Fresk originated in France, but is now a global phenomenon. It's a low-cost 3-hour workshop (in person or virtual) in which attendees collaborate to understand the interconnection of human activity and climate change. The word 'fresk' is short for 'fresco', as the workshop uses a visual collage to bring together the ideas. Once you have attended a Climate Fresk, there is the opportunity to take a short training course to become a facilitator. Find a Climate Fresk local to you at https://climatefresk.org/world/
