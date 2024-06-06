@@ -137,7 +137,7 @@ LinkedIn is a very useful tool for engaging with the Green IT movement. The foll
 * **Mark Butcher** - outspoken GreenOps advocate abd Big Tech critic. https://www.linkedin.com/in/markbutcher/
 * **Maxime Blondeau** - Photographer, map-maker and storyteller. Posts are in French,, but his photos and maps are amazing. https://www.linkedin.com/in/maxime-blondeau-%F0%9F%8C%B1-%E2%99%BE-a71b6521/
 * **Oliver Cronk** - Sustainable Tech Director at Scott Logic. Leads on the Technology Carbon Standard initiative. https://www.linkedin.com/in/cronky/
-* **Peter Campbell** - Director of Green Software at Kainos and author of Digital Sustainability: The Ned for Greener Software. https://www.linkedin.com/in/petercampell/
+* **Peter Campbell** - Director of Green Software at Kainos and author of Digital Sustainability: The Need for Greener Software. https://www.linkedin.com/in/petercampell/
 * **Sara Bergman** - co-author of Building Green Software. https://www.linkedin.com/in/sara-bergman1/ 
 * **Tim Frick** - founder of Mightybytes and author of Designing for Sustainability. https://www.linkedin.com/in/timfrick/    
 * **Tom Greenwood** - co-founder of Wholegrain Digital, author of Sustainable Web Design. https://www.linkedin.com/in/tomgreenwood/     
