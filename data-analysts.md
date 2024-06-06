@@ -1,16 +1,14 @@
 
+# !This is still work in progress...final version coming soon!
+https://sustainablewebdesign.org/estimating-digital-emissions/ 
+
+https://sustainablewebdesign.org/digital-carbon-ratings/
 
 https://dl.acm.org/doi/abs/10.1145/3401335.3401716
 
 https://www.devsustainability.com/p/approaches-to-calculating-network-website-energy-and-carbon
 
 https://sas-dhrh.github.io/dhcc-toolkit/
-
-Defra
-
-Kainos book chapter
-
-Data as plastic 
 
 https://www.etsy.com/codeascraft/cloud-jewels-estimating-kwh-in-the-cloud/
 
@@ -36,9 +34,18 @@ https://sustain.algorithmwatch.org/
 
 * [ ] **BBC News: AI Decoded** Excellent report on the environmental impacts of AI with a panel of very knowledgable experts. Although it's about AI, it covers many other important areas of digital sustainability. https://www.youtube.com/watch?v=fjNacsyp28s
 
+### Other 
+
 https://www.linkedin.com/pulse/cloud-over-on-prem-like-cars-trains-sustainability-yelle-lieder-knd3e/  
 
-https://sustainablewebdesign.org/estimating-digital-emissions/
+
+
+Possible other topics/links
+Defra emissions guidance
+
+Kainos book chapter on measurement 
+
+'Data as plastic'
 
 ## Glossary
 Are you new to terms like Scope 3, GHGs, the Rebound Effect SDGs? If so, please make use of the glossary to get familiar with the relevant concepts and terminology. [Digital sustainability glossary](glossary.md).
