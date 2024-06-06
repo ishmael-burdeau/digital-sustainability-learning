@@ -102,7 +102,7 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 #### BCS articles
 * [The greening of IT: what it is and why it's significant](https://discover.bcs.org/webinars/the-greening-of-it-what-it-is-and-why-its-significant/) (free webinar) - 1 hour presentation by Deloitte, broad-ranging and gives a good overview of key problems and terminology. 
 * [AI and climate change](https://discover.bcs.org/webinars/ai-and-climate-change/) (free webinar) - 3 talks by top female computer scientists. The first talk is not sustainability/climate related, the sustainability talks start at 27:50. Talk 2 looks at the overall impact of ICT on the environment, which is good and fairly high level, but also based on some good research. Covers most of the standard subject areas. Full paper here: https://www.cell.com/patterns/fulltext/S2666-3899%2821%2900188-4. The final talk covers machine learning and AI, and is quite high-level. No mention of LLMs.
-* [The sustainability challenges facing digital transformation](https://discover.bcs.org/articles/the-sustainability-challenges-facing-digital-transformation/) (free article) - published in late 2021, this article refers to the pandemic a lot, and is more of an awareness and aspiration piece. It also includes some questionable claims about Google searches. 
+ 
 * [The IT practitioner of the future](https://discover.bcs.org/articles/the-it-practitioner-of-the-future/) (free article) - good article explaining that technologists must understand and work to improve the ESG profile of technology
 
 * [Engineering sustainable AI systems](https://discover.bcs.org/articles/engineering-sustainable-ai-systems/) (free article) - high-level summary article from late 2021.
