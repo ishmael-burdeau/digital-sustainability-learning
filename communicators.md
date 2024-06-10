@@ -121,7 +121,7 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 
 #### Climate change
 - [ ] **Outrage + Optimism**. Not a tech podcast, but worth listening to as a leading climate change resource.
-https://www.outrageandoptimism.org/
+https://www.outrageandoptimism.org/ or https://open.spotify.com/show/5Rbif0NfMJDT2zVaadZBBq
 
 * **Civil Service Climate + Environment Network**. Not a tech podcast either. But relevant to civil servants. 
 https://www.civilserviceenvironmentnetwork.org/environment-deep-dive
