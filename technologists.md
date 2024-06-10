@@ -25,8 +25,12 @@ https://youtu.be/HXEnbi64TdQ?si=Ff4eGg2uo4OUxsQm
 Be familiar with the following and refer back to them as needed
 - [ ] **Green Software Maturity Matrix**. Self-evaluation tool to help organisations and teams understand their level of maturity in this area. https://maturity-matrix.greensoftware.foundation/
 - [ ] **W3C Web Sustainability Guidelines, 1.0.** A new initiative, covers business, design and technology aspects of digital services. See https://w3c.github.io/sustyweb/. Condensed version: https://w3c.github.io/sustyweb/glance.html and quick reference: https://w3c.github.io/sustyweb/quickref.html
-- [ ] **GOV.UK Technology Code of Practice**. Point 12 outlines the GOV.UK position on sustainability in ICT. See https://www.gov.uk/guidance/make-your-technology-sustainable 
+- [ ] **GOV.UK Technology Code of Practice**. Point 12 outlines the GOV.UK position on sustainability in ICT. https://www.gov.uk/guidance/make-your-technology-sustainable 
 
+- [ ] **Web Sustainability Guidelines.**
+Now in their sixth draft, the Web Sustainability Guidelines consist of 94 recommendations to help teams create more sustainable digital products and services. https://sustainablewebdesign.org/guidelines/
+
+- [ ] **Green Software Patterns** (for architects). A well-researched and regularly updated set of patterns to reduce the environmental impacts of your architecture. https://patterns.greensoftware.foundation/     
 
 ## Websites to explore
 
