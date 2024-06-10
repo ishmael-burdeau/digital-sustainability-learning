@@ -24,6 +24,9 @@ https://youtu.be/HXEnbi64TdQ?si=Ff4eGg2uo4OUxsQm
 ### 3. Guidelines
 - [ ] **W3C Web Sustainability Guidelines, 1.0.** A new initiative, covers business, design and technology aspects of digital services. See https://w3c.github.io/sustyweb/. Condensed version: https://w3c.github.io/sustyweb/glance.html and quick reference: https://w3c.github.io/sustyweb/quickref.html
 
+- [ ] **Web Sustainability Guidelines.**
+Now in their sixth draft, the Web Sustainability Guidelines consist of 94 recommendations to help teams create more sustainable digital products and services. https://sustainablewebdesign.org/guidelines/
+
 - [ ] **The intro guide to digital eco-design**. French-led project for designers, developed in part by the team which helped write the W3C Web Sustainability Guidelines. See The intro guide to digital eco-design. In French, but can be made accessible using auto-translate tools. See https://eco-conception.designersethiques.org/guide/en/
 
 - [ ] **Planet Centred Design**. A new proposal by Defra to support those designing and building digital services. See https://defradigital.blog.gov.uk/2023/03/06/how-being-planet-centric-can-really-make-a-difference-when-designing-services/ and https://drive.google.com/file/d/161GLM3MiuLmehr4zR6yfmFRV67ON4ml1/view 
