@@ -9,7 +9,7 @@ These two courses are essential for understanding the basics of Green Software a
 - [ ]  **Sustainable software engineering overview**
 Great into video series by Asim Hussain (Green Software Foundation). Very digestible, only takes about 30 minutes to complete. https://learn.microsoft.com/en-us/training/modules/sustainable-software-engineering-overview/
 - [ ]  **Green Software Practitioner**
-Slightly more in-depth online course. Takes 2-3 hours to complete. Recommended. Take the short exam to get certified. https://learn.greensoftware.foundation/
+Slightly more in-depth online course. Takes 2-3 hours to complete. Recommended. Take the short exam with the Linux Foundation to get certified. https://learn.greensoftware.foundation/ and https://training.linuxfoundation.org/training/green-software-for-practitioners-lfc131/
 
 ### 2. Videos
 - [ ]  **What does it all mean: Net-zero, carbon neutral, climate positive, carbon negative? by Asim Hussain** Good breakdown of some of the crucial terminology, focussed speficically on digital emissions. 20 minutes, broken into clear chapters. 
@@ -22,13 +22,15 @@ https://youtu.be/Wn5urKcquFE?si=84Th0OkXNlEPjvGd
 
 ### 3. Self-evaluation tools
 You are no doubt familiar with maturity matrices. They are a good way to evaluate the maturity of your team and organisation. The following two are focussed on digital sustainability, and familiarity with these is an excellent way  to measure and improve the sustainability of your team and the products you are building.  
-- [ ] **Green Software Maturity Matrix**. Self-evaluation tool by the GSF to help organisations understand their level of maturity in this area. This is good, but also high level. A sample output from GreenGauge can be found below. https://maturity-matrix.greensoftware.foundation/
+- [ ] **Green Software Maturity Matrix**. Self-evaluation tool by the GSF to help organisations understand their level of maturity in this area. This is good, but also high level. 
 
-- [ ] **GreenGauge.** GreenGauge is an open source tool developed by Kainos to support https://github.com/KainosSoftwareLtd/GreenGauge/blob/main/docs/service-design-matrix.md
+- [ ] **GreenGauge.** GreenGauge is an open source tool developed by Kainos to support teams assess their maturity. https://github.com/KainosSoftwareLtd/GreenGauge/blob/main/docs/service-design-matrix.md. A sample output from GreenGauge can be found below. 
+
+![Sample output from GreenGauge](green-gauge-sample.png)
+
 
 - [ ] **Assessment of my individual / professional digital environmental footprint in kg CO2 eq.** Excellent tool for estimating the emissions from typical work and home digital activities, could be scaled up to a team. Unfortunately the calculator only has carbon intensity data for France, Belgium and the Netherlands. Belgium is the most similar to the UK for this (see https://app.electricitymaps.com to understand this further). https://myimpact.isit-europe.org/
 
-![Sample output from GreenGauge](green-gauge-sample.png)
 
 ### 4. Guidelines
 - [ ] **W3C Web Sustainability Guidelines, 1.0.** A new initiative, covers business, design and technology aspects of digital services. See https://w3c.github.io/sustyweb/. Condensed version: https://w3c.github.io/sustyweb/glance.html and quick reference: https://w3c.github.io/sustyweb/quickref.html
@@ -71,7 +73,7 @@ https://learning.oreilly.com/library/view/building-green-software/9781098150617/
 
 - [ ] **Humanity-Centered Design** by Don Norman. The renowned design thinker has adapted his approach in the face of the environmental crisis. Gone are the terms 'user centred' and even 'human centred'. Don now asks us to instead be 'humanity centred'. Read and learn more here: https://www.interaction-design.org/literature/topics/humanity-centered-design
 
-- [ ] **Responsible tech playbook** by Thoughtworks. This covers much for than sustainability, with a real focus on ethics in the design process. Filled with useful ideas and activities. https://www.thoughtworks.com/en-gb/about-us/social-change/responsible-tech-playbook
+- [ ] **Responsible tech playbook** by Thoughtworks. This covers much for than sustainability, with a real focus on ethics in the design process. Filled with useful ideas and activities. https://www.thoughtworks.com/en-gb/about-us/social-change/responsible-tech-playbook and https://www.thoughtworks.com/en-gb/insights/topic/responsible-tech 
 
 - [ ] **SustAIn - Step by Step Towards Sustainable AI** https://sustain.algorithmwatch.org/en/step-by-step-towards-sustainable-ai/ 
 
