@@ -9,7 +9,7 @@ These two courses are essential for understanding the basics of Green Software a
 - [ ]  **Sustainable software engineering overview**
 Great into video series by Asim Hussain (Green Software Foundation). Very digestible, only takes about 30 minutes to complete. https://learn.microsoft.com/en-us/training/modules/sustainable-software-engineering-overview/
 - [ ]  **Green Software Practitioner**
-Slightly more in-depth online course. Takes 2-3 hours to complete. Recommended. Take the short exam to get certified. https://learn.greensoftware.foundation/
+Slightly more in-depth online course. Takes 2-3 hours to complete. Recommended. Take the short exam with the Linux Foundation to get certified. https://learn.greensoftware.foundation/ and https://training.linuxfoundation.org/training/green-software-for-practitioners-lfc131/
 
 ### 2. Videos
 
@@ -39,6 +39,8 @@ Now in their sixth draft, the Web Sustainability Guidelines consist of 94 recomm
 A few examples of carbon-aware web design and guidance. 
 
 * **Sustainable Web Design** - Includes and manifesto and some useful guidelines. https://sustainablewebdesign.org/
+
+* **UX/UI Design Resources from the Climate Designers Resource Library** - Repository of useful resources related to UX and low carbon design. https://climatedesigners.notion.site/Climate-Designers-Resource-Library-81afbbb5e34f48faacb24d8dcc84535e?p=72340f013830407bb6060e48a5a93f2c&pm=c
 
 * **Branch Magazine** - online magazine for green digital enthusiasts. The website design responds to the carbon intensity of the UK grid, which is pretty cool. https://branch.climateaction.tech/
 
@@ -73,7 +75,7 @@ Lots of interesting and sometimes practical ways to bring non-human needs into t
 
 - [ ] **Humanity-Centered Design** by Don Norman. The renowned design thinker has adapted his approach in the face of the environmental crisis. Gone are the terms 'user centred' and even 'human centred'. Don now asks us to instead be 'humanity centred'. Read and learn more here: https://www.interaction-design.org/literature/topics/humanity-centered-design
 
-- [ ] **Responsible tech playbook** by Thoughtworks. This covers much for than sustainability, with a real focus on ethics in the design process. Filled with useful ideas and activities. https://www.thoughtworks.com/en-gb/about-us/social-change/responsible-tech-playbook
+- [ ] **Responsible tech playbook** by Thoughtworks. This covers much for than sustainability, with a real focus on ethics in the design process. Filled with useful ideas and activities. https://www.thoughtworks.com/en-gb/about-us/social-change/responsible-tech-playbook and https://www.thoughtworks.com/en-gb/insights/topic/responsible-tech 
 
 - [ ] **How to become a Climate-Conscious Product Manager** by François Burra. Excellent downloadable resource pack. http://climateproductleaders.org/
 
