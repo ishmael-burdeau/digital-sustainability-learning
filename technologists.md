@@ -9,7 +9,7 @@ These two courses are essential for understanding the basics of Green Software a
 - [ ]  **Sustainable software engineering overview**
 Great into video series by Asim Hussain (Green Software Foundation). Very digestible, only takes about 30 minutes to complete. https://learn.microsoft.com/en-us/training/modules/sustainable-software-engineering-overview/
 - [ ]  **Green Software Practitioner**
-Slightly more in-depth online course. Takes 2-3 hours to complete. Recommended. Take the short exam to get certified. https://learn.greensoftware.foundation/
+Slightly more in-depth online course. Takes 2-3 hours to complete. Recommended. Take the short exam with the Linux Foundation to get certified. https://learn.greensoftware.foundation/ and https://training.linuxfoundation.org/training/green-software-for-practitioners-lfc131/
 
 ### 2. Videos
 
