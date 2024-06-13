@@ -77,6 +77,8 @@ The following are recommended for anyone wishing to discuss climate and environm
 
 - [ ] **Not the End of the World** If you are looking for an optimistic read, this is worth checking out. Hannah Ritchie from Our World in Data, goes pretty deep to take apart some of the more common misunderstandings around the wider questions of sustainability (nt just climate change). A very hopeful read, but also challenging in many places, as she takes apart many of the myths of eco-doomerism. https://www.amazon.co.uk/Not-End-World-Generation-Sustainable/dp/1784745006 
 
+- [ ] * **Communication Design Resources from the Climate Designers Resource Library** - Repository of useful resources related to communicating for sustainability through design. https://climatedesigners.notion.site/Communication-Design-Resources-b4cc50460e00426fad18c62c1470dd41
+
 ### Articles to read (suggestion - read 2 or 3 that look interesting)
 There are hundreds of recent articles on these topics, here is a sampling of a few which are of interest.
 
