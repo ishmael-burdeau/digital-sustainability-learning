@@ -67,6 +67,8 @@ The following are recommended for anyone wishing to discuss climate and environm
 
 - [ ] **Britain Talks Climate** Free, in-depth resource by the group Climate Outreach. The report segments the British public into 7 broad groups and suggests strategies for engagement based on values. https://climateoutreach.org/reports/britain-talks-climate/
 
+- [ ] **Climate Changemaker Playbook** This palybook is based on 3 simple strategies supported by 9 tactics. The overall approach is research-based and is supported by case studies. Succinct and practical, this is a great way to get started. Free 36 page PDF. https://www.ashoka.org/en-ch/climate-changemaking-playbook 
+
 - [ ] **Talking Climate: From Research to Practice in Public Engagement** This books challenges assumptions around climate communications – for example myths around what motivates people. Available from the DWP Library for free at https://research.ebsco.com/c/uy344d/search/details/txrfyo7sub or on Climate Outreach at https://climateoutreach.org/reports/book-talking-climate-from-research-to-practice-in-public-engagement/ (first chapter is free) 
 
 - [ ] **How Bad Are Bananas?** The definitive book on the carbon cost of everything. Very easy to read a pick up in small chunks. Answers some hard questions and makes some excellent comparisons between different products and activities. https://howbadarebananas.com/ 
@@ -77,7 +79,7 @@ The following are recommended for anyone wishing to discuss climate and environm
 
 - [ ] **Not the End of the World** If you are looking for an optimistic read, this is worth checking out. Hannah Ritchie from Our World in Data, goes pretty deep to take apart some of the more common misunderstandings around the wider questions of sustainability (nt just climate change). A very hopeful read, but also challenging in many places, as she takes apart many of the myths of eco-doomerism. https://www.amazon.co.uk/Not-End-World-Generation-Sustainable/dp/1784745006 
 
-- [ ] * **Communication Design Resources from the Climate Designers Resource Library** - Repository of useful resources related to communicating for sustainability through design. https://climatedesigners.notion.site/Communication-Design-Resources-b4cc50460e00426fad18c62c1470dd41
+- [ ] **Communication Design Resources from the Climate Designers Resource Library** - Repository of useful resources related to communicating for sustainability through design. https://climatedesigners.notion.site/Communication-Design-Resources-b4cc50460e00426fad18c62c1470dd41
 
 ### Articles to read (suggestion - read 2 or 3 that look interesting)
 There are hundreds of recent articles on these topics, here is a sampling of a few which are of interest.
