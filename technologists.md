@@ -61,7 +61,7 @@ https://open.hpi.de/courses/sustainablesoftware2022
 
 #### Code walkthroughs 
 - [ ]  **Impact Framework**
-Step-by-step tutorials created for Carbon Hack 24. https://github.com/heaversm/carbonhack-if/wiki andhttps://www.youtube.com/playlist?list=PLC_E8ugf8_Oz86WzXHZ1oqVLvxZSWo4F3 
+Step-by-step tutorials created for Carbon Hack 24. https://github.com/heaversm/carbonhack-if/wiki and https://www.youtube.com/playlist?list=PLC_E8ugf8_Oz86WzXHZ1oqVLvxZSWo4F3 
 
 ### 2. Books
 - [ ] **Building Green Software**.
