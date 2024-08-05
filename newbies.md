@@ -10,6 +10,8 @@ If you are new to the topic of digital sustainability, then the following resour
 
 ## Step 1: understand the problem (15 minutes)
 
+- [ ] **UK Government Digital Sustainability Alliance (GDSA) - planetary impact** (3:)18 Official UK government video on the planetary impacts of tech. High level, but very good. - https://www.youtube.com/watch?v=Du7rBQ8Z4pk
+
 - [ ] **Digital Decarbonisation Explained** (2:09) - brief and tantalising summary of the environmental cost of data. https://www.youtube.com/watch?v=WTPl5LlxYwA
 
 - [ ] **What the AI Boom Means for Carbon Emissions** (1:45) 
