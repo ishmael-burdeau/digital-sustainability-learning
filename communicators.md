@@ -149,7 +149,8 @@ LinkedIn is a very useful tool for engaging with the Green IT movement. The foll
 * **Peter Campbell** - Director of Green Software at Kainos and author of Digital Sustainability: The Need for Greener Software. https://www.linkedin.com/in/petercampell/
 * **Sara Bergman** - co-author of Building Green Software. https://www.linkedin.com/in/sara-bergman1/ 
 * **Tim Frick** - founder of Mightybytes and author of Designing for Sustainability. https://www.linkedin.com/in/timfrick/    
-* **Tom Greenwood** - co-founder of Wholegrain Digital, author of Sustainable Web Design. https://www.linkedin.com/in/tomgreenwood/     
+* **Tom Greenwood** - co-founder of Wholegrain Digital, author of Sustainable Web Design. https://www.linkedin.com/in/tomgreenwood/  
+* **Nate Hagens** - host of the Great Simplification podcast. https://www.linkedin.com/in/nate-hagens-004810b/ 
 
 ## Glossary
 Are you new to terms like Scope 3, GHGs, the Rebound Effect SDGs? If so, please make use of the glossary to get familiar with the relevant concepts and terminology. [Digital sustainability glossary](glossary.md).
