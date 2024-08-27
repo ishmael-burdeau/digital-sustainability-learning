@@ -23,6 +23,7 @@ https://youtu.be/Wn5urKcquFE?si=84Th0OkXNlEPjvGd
 ### 3. Self-evaluation tools
 You are no doubt familiar with maturity matrices. They are a good way to evaluate the maturity of your team and organisation. The following two are focussed on digital sustainability, and familiarity with these is an excellent way  to measure and improve the sustainability of your team and the products you are building.  
 - [ ] **Green Software Maturity Matrix**. Self-evaluation tool by the GSF to help organisations understand their level of maturity in this area. This is good, but also high level. 
+![GSF Maturity Matrix](gsf_maturity_matrix.svg)
 
 - [ ] **GreenGauge.** GreenGauge is an open source tool developed by Kainos to support teams assess their maturity. https://github.com/KainosSoftwareLtd/GreenGauge/blob/main/docs/service-design-matrix.md. A sample output from GreenGauge can be found below. 
 
