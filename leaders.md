@@ -1,12 +1,15 @@
 # !This is still work in progress...final version coming soon!
 
 # Digital sustainability for leaders   
-The following is a list of material for those in a leadership position. Sustainability has become a leadership pillar, and understanding the problems of climate change and environmental degradation and your associated obligations as well as the potential opportunities offered by sustainability is vital as we move to 2030 and beyond. Go through the 'Executive Summary' to get started. Working through much of the essential material will build your confidence as a Practitioner. Completing some or all the all the optional material will put you on the path towards Expert. 
+The following is a list of material for those in a leadership position. Sustainability has become a leadership pillar, and understanding the problems of climate change and environmental degradation and your associated obligations as well as the potential opportunities offered by sustainability is vital as we move to 2030 and beyond.
 
-1) Cost effective
-2) Legal obligations 
-3) Staff retention/values 
+For leaders, there are 3 key concepts related to digital sustainability. Keep these concepts in mind as you go through the learning material. 
 
+1) **Reducing cost**. In digital, sustainable solutions are generally cheaper and more cost effective. This could mean making more effective use of resources, using less or making hardware last longer. 
+2) **Meeting legal obligations**. There are a range of legal reporting obligations which organisations are expected to meet. These are expected to grow as we move closer to key 2050 milestones, such as 2030. 
+3) **Staff retention and recruitment**. There is growing evidence that workers increasingly put an emphasis on an employer's values when thinking about their careers. Being an environmentally responsible employer is no longer an optional 'nice to have', but rather an essential part of your talent strategy. 
+
+Go through the 'Executive Summary' to get started. Working through much of the essential material will build your confidence as a Practitioner. Completing some or all the all the optional material will put you on the path towards Expert. 
 
 ## Executive summary
 Spend about 90 minutes understanding some of the key terms around digital sustainability and what this means for digital leaders. 
@@ -25,20 +28,23 @@ Spend about 90 minutes understanding some of the key terms around digital sustai
 ## Essential material 
 
 ### Short videos on sustainability and leadership
- - [ ] **What is Doughnut Economics? - with Kate Raworth** (1:35) The book 'Doughnut Economics' by Kate Raworth has been an inspiration to many. In this very short introduction she explains the meaning of the term and why we need to move to such a model. https://www.youtube.com/watch?v=kxQeb2PDz9M. 
 
 - [ ] **The Impact of Global Trends on Sustainability | University of Cambridge** (2:21) On why high impact leaders need to understand sustainability. Part of the 'High Impact Leadership' course from the University of Cambridge Institute for Sustainability Leadership (CISL). https://www.youtube.com/watch?v=VxH0yra_D2Q
 
 - [ ] **Sustainable Leadership With Paul Polman** (1:57) Paul Polman is a leading thinker on sustainability and leadership. He is the author of 'Net Positive'. Polman is also listed #3 in the 'Thinkers 50' rankings'. https://www.youtube.com/watch?v=80pMz97s6HU
 
  - [ ] **Leadership for Sustainability: The Both/And Mindset** (2:37) Video from the Oxford Leadership programme on how leaders can adopt a both/and mindset to align corporate financial goals with the drive to make organisations more sustainable. https://www.youtube.com/watch?v=tx2qo46ag8I 
+
+  - [ ] **What is Doughnut Economics? - with Kate Raworth** (1:35) The book 'Doughnut Economics' by Kate Raworth has been an inspiration to many. In this very short introduction she explains the meaning of the term and why we need to move to such a model. https://www.youtube.com/watch?v=kxQeb2PDz9M
  
  ### Longer watches on sustainability 
 
  - [ ] **Smart green world? Making digitalization work for sustainability** (18:12) Excellent TEDx talk by Tilmann Santarius on digital sufficiency. This talk examines both the direct impacts of digital on the environment, but also the potential for digital to improve our environmental impact. But it can often be a complex balance, due to the tendency for digital to increase demand. https://www.youtube.com/watch?v=lNkaGLMIm_Q 
 
- - [ ]  **What does it all mean: Net-zero, carbon neutral, climate positive, carbon negative? by Asim Hussain** - Good breakdown of some of the crucial terminology, focussed specifically on digital emissions. 20 minutes, broken into clear chapters. 
+ - [ ]  **What does it all mean: Net-zero, carbon neutral, climate positive, carbon negative? by Asim Hussain** (20:24) Good breakdown of some of the crucial terminology, focussed specifically on digital emissions. 20 minutes, broken into clear chapters. 
 https://youtu.be/HXEnbi64TdQ?si=Ff4eGg2uo4OUxsQm 
+
+* [ ] **BBC News: AI Decoded** Excellent report on the environmental impacts of AI with a panel of very knowledgable experts. Although it's about AI, it covers many other important areas of digital sustainability. https://www.youtube.com/watch?v=fjNacsyp28s
 
 - [ ] **Defining Sustainability: Absolutely** (11:30) TEDx talk by Anjila Hjalsted on the meaning of 'sustainability'. Leaders must understand what sustainability really means, through the use of better data. 
  https://www.youtube.com/watch?v=B-dCmbViDEQ 
@@ -46,30 +52,42 @@ https://youtu.be/HXEnbi64TdQ?si=Ff4eGg2uo4OUxsQm
  - [ ] **The New Leader** (20:46) TEDxStanford talk with Julia Novy. Insightful talk on the importance of understanding real user needs to create more sustainable solutions for complex systems. https://www.youtube.com/watch?v=DkrS3HZqXrQ 
 
 
-### Legal obligations 
-* GOV.UK Technology Code of Practice (point 12 - MAKE YOUR technology sustainable) https://www.gov.uk/guidance/the-technology-code-of-practice#make-your-technology-sustainable
+### Legal obligations and other government guidelines 
+
+* UK becomes first major economy to pass net zero emissions law - https://www.gov.uk/government/news/uk-becomes-first-major-economy-to-pass-net-zero-emissions-law
+
+* UK Government Sustainable ICT (GDSA blog) - The Government Digital Sustainability Alliance is broad coalition of technology suppliers aimed at reducing the emissions from ICT. Regular updates are posted here. https://sustainableict.blog.gov.uk/category/sustainable-ict/gdsa/
+
+* GOV.UK Technology Code of Practice (point 12 - Make your technology sustainable) https://www.gov.uk/guidance/the-technology-code-of-practice#make-your-technology-sustainable
 
  * Greening government: ICT and digital services strategy 2020-2025  https://www.gov.uk/government/publications/greening-government-ict-and-digital-services-strategy-2020-2025/greening-government-ict-and-digital-services-strategy-2020-2025 
 
-### Staff recruitment and retention 
+ * Policy paper - Digital development strategy 2024 to 2030 (FCDO) - useful reference point. https://www.gov.uk/government/publications/digital-development-strategy-2024-to-2030/digital-development-strategy-2024-to-2030#chapter-5----digital-sustainability-harnessing-digital-technologies-for-climate-and-the-environment
 
+*  Generative AI Framework for HMG - includes good general guidance related to sustainability. https://www.gov.uk/government/publications/generative-ai-framework-for-hmg/generative-ai-framework-for-hmg-html
 
- 2023 Net Positive
-Employee Barometer
-FROM QUIET QUITTING TO CONSCIOUS QUITTING https://www.paulpolman.com/conscious-quitting-has-arrived/
+### Staff engagement, recruitment and retention 
+
+* From Quiet Quitting to Conscious Quitting - https://www.paulpolman.com/conscious-quitting-has-arrived/
+
+* Climate quitting - younger workers voting with their feet on employer’s ESG commitments - https://kpmg.com/uk/en/home/media/press-releases/2023/01/climate-quitting-younger-workers-voting-esg.html
+
+* Sustainability, a surprisingly successful KPI: GreenOps survey results - https://climateaction.tech/blog/sustainability-kpi-greenops-survey-results/
 
 
 ## Optional material
 
-### 4. Podcasts 
+### 1. Podcasts 
 
 - [ ] **CXO Bytes:** new podcast hosted by Sanjay Podder, Chairperson of the Green Software Foundation, on tech leadership and sustainability. https://podcasts.bcast.fm/cxo-bytes 
 
 - [ ]   **Green IO:** weekly podcast hosted by Gaël Duez on green software and ICT, with frequent interviews looking at sustainable design practices. Recommended. https://greenio.gaelduez.com/ 
 
-### People to follow 
+- [ ] **Why All Executives Should Focus on Sustainable Technology to Drive Growth**. One-off from Gartner. https://www.gartner.com/en/podcasts/thinkcast/why-all-executives-should-focus-on-sustainable-technology-to-drive-growth
 
-https://www.linkedin.com/in/paulpolman/ 
+### 2. People to follow 
+
+* Paul Polman https://www.linkedin.com/in/paulpolman/ 
 Kate Raworth 
 * **Oliver Cronk** - Sustainable Tech Director at Scott Logic. Leads on the Technology Carbon Standard initiative. https://www.linkedin.com/in/cronky/
 * **Asim Hussain** - Executive Director of the Green Software Foundation. https://www.linkedin.com/in/jawache/
@@ -77,33 +95,35 @@ Kate Raworth
 * **Mark Butcher** - outspoken GreenOps advocate abd Big Tech critic. https://www.linkedin.com/in/markbutcher/
 * **Peter Campbell** - Director of Green Software at Kainos and author of Digital Sustainability: The Ned for Greener Software. https://www.linkedin.com/in/petercampell/
 
-
-
-
-
-* [ ] **BBC News: AI Decoded** Excellent report on the environmental impacts of AI with a panel of very knowledgable experts. Although it's about AI, it covers many other important areas of digital sustainability. https://www.youtube.com/watch?v=fjNacsyp28s
-
-
-
-
-
-### Books and longer reads
+### 3. Books and longer reads
 
 The following are recommended for anyone wishing to understand leadership from a sustainability perspective. For books related to the more technical aspects of digital sustainability, check the [technologists learning pathway](technologists.md)
 
-* [ ] **Sustainable IT Playbook for Technology Leaders**
+* [ ] **Sustainable IT Playbook for Technology Leaders** - Very good audio book, recommended. Covers all aspects of developing a sustainable ICT strategy. 
 https://www.audible.co.uk/pd/Sustainable-IT-Playbook-for-Technology-Leaders-Audiobook/B0BSRCBCRL 
-Very good audio book, recommended.
 
-* [ ] https://www.amazon.co.uk/Doughnut-Economics-Seven-21st-Century-Economist/dp/1847941397/
 
-* [ ] https://www.amazon.co.uk/Net-Positive-Courageous-Companies-Thrive/dp/1647821304
+* [ ] **Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist** A sustainability and economics best seller. https://www.amazon.co.uk/Doughnut-Economics-Seven-21st-Century-Economist/dp/1847941397/
 
-### Articles to read
+* [ ] **Net Positive: How Courageous Companies Thrive by Giving More Than They Take** - Paul Polman argues that the companies of the future will profit by fixing the world's problems, not creating them. https://www.amazon.co.uk/Net-Positive-Courageous-Companies-Thrive/dp/1647821304
+
+
+### 4. Articles to read
 There are hundreds of recent articles on these topics, here is a sampling of a few which are of interest.
 
-#### General interest
-* **The Staggering Ecological Impacts of Computation and the Cloud** - https://thereader.mitpress.mit.edu/the-staggering-ecological-impacts-of-computation-and-the-cloud/
+#### International perspectives
+
+* Green IT (French government strategy) - https://www.ecologie.gouv.fr/politiques-publiques/green-it
+
+* Singapore wants to become a green computing hub. Here’s how it’s getting started. - https://govinsider.asia/intl-en/article/singapore-wants-to-become-a-green-computing-hub-heres-how-its-getting-started 
+
+* Estonia to become the greenest digital government in the world - https://e-estonia.com/estonia-to-become-the-greenest-digital-government-in-the-world/
+
+* The UK government's IT carbon footprint has got worse - the transparency is welcome - https://www.csofutures.com/news/the-uk-governments-it-carbon-footprint-has-got-worse-and-thats-not-all-bad-news/ 
+
+* Building trust in the digital era: achieving Scotland's aspirations as an ethical digital nation - https://www.gov.scot/publications/building-trust-digital-era-achieving-scotlands-aspirations-ethical-digital-nation/pages/6/ 
+
+* Exploring how we help the public sector become digitally sustainable (Welsh government) - https://digitalpublicservices.gov.wales/our-work/exploring-how-we-help-public-sector-become-digitally-sustainable 
 
 #### Greenwashing 
 
@@ -125,127 +145,5 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 
 * **UK generated 2nd largest amount of e-waste as a country in 2022** - eye-opening summary of the UK's e-waste problem. https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/ 
 
-* **How and Why I Stopped Buying New Laptops** - informative, fun and practical article about keeping your laptop for longer, the why and the how. 
-
-#### Climate psychology  
-
-* **Do men and women think about climate change differently?** - condensed version of the research discussed above. https://www.economist.com/graphic-detail/2022/07/22/do-men-and-women-think-about-climate-change-differently 
-
-* **Globally representative evidence on the actual and perceived support for climate action** - global survey results from 130,000 people on attitudes towards climate change. https://www.nature.com/articles/s41558-024-01925-3
-* **Sustainability, a surprisingly successful KPI: GreenOps survey results** - survey  results, indicating that tech workers care more about carbon than cost, and the benefits of a GreenOps approach. https://climateaction.tech/blog/sustainability-kpi-greenops-survey-results/
-
-
-### People to follow
-LinkedIn is a very useful tool for engaging with the Green IT movement. The following individuals have made some outstanding contributions to digital sustainability and are worth following.
-
-* **Anne Currie** - co-author of Building Green Software, green software trainer and advocate. https://www.linkedin.com/in/annecurrie/
-* **Asim Hussain** - Executive Director of the Green Software Foundation. https://www.linkedin.com/in/jawache/
-* **Professor Ed Hawkins MBE** - Professor of Climate Science, creator of Warming Stripes. https://www.linkedin.com/in/edhawkinsclimate/
-* **Eric Zie** - CEO and Founder GoCodeGreen, author of Decarbonise Digital. https://www.linkedin.com/in/ericzie/
-* **Gael Duez** - Podcast host of Green.io. https://www.linkedin.com/in/gaelduez/ 
-* **Gerry McGovern** - digital sustainability industry gadfly, author of World Wide Waste. https://www.linkedin.com/in/gerry-mcgovern-07876469/ 
-* **Hannah Smith** - Director of Operations at the Green Web Foundation. https://www.linkedin.com/in/hanopcan/
-* **Mark Butcher** - outspoken GreenOps advocate abd Big Tech critic. https://www.linkedin.com/in/markbutcher/
-* **Maxime Blondeau** - Photographer, map-maker and storyteller. Posts are in French,, but his photos and maps are amazing. https://www.linkedin.com/in/maxime-blondeau-%F0%9F%8C%B1-%E2%99%BE-a71b6521/
-* **Oliver Cronk** - Sustainable Tech Director at Scott Logic. Leads on the Technology Carbon Standard initiative. https://www.linkedin.com/in/cronky/
-* **Peter Campbell** - Director of Green Software at Kainos and author of Digital Sustainability: The Ned for Greener Software. https://www.linkedin.com/in/petercampell/
-* **Sara Bergman** - co-author of Building Green Software. https://www.linkedin.com/in/sara-bergman1/ 
-* **Tim Frick** - founder of Mightybytes and author of Designing for Sustainability. https://www.linkedin.com/in/timfrick/    
-* **Tom Greenwood** - co-founder of Wholegrain Digital, author of Sustainable Web Design. https://www.linkedin.com/in/tomgreenwood/     
-
 ## Glossary
 Are you new to terms like Scope 3, GHGs, the Rebound Effect SDGs? If so, please make use of the glossary to get familiar with the relevant concepts and terminology. [Digital sustainability glossary](glossary.md).
-
-
-
-
-
-
-
-
-
-
-
-
-### 2. Playbooks and longer reads 
-
-- [ ] **How to become a Climate-Conscious Product Manager** by François Burra. Excellent downloadable resource pack. http://climateproductleaders.org/
-
-- [ ] **Humanity-Centered Design** by Don Norman. The renowned design thinker has adapted his approach in the face of the environmental crisis. Gone are the terms 'user centred' and even 'human centred'. Don now asks us to instead be 'humanity centred'. Read and learn more here: https://www.interaction-design.org/literature/topics/humanity-centered-design
-
-- [ ] **Responsible tech playbook** by Thoughtworks. This covers much for than sustainability, with a real focus on ethics in the design process. Filled with useful ideas and activities. https://www.thoughtworks.com/en-gb/about-us/social-change/responsible-tech-playbook
-
-- [ ] **SustAIn - Step by Step Towards Sustainable AI** https://sustain.algorithmwatch.org/en/step-by-step-towards-sustainable-ai/ 
-
-
-### 3. Podcasts 
-
-
-
-* **Permaculture for Agile teams – Amy Wagner on The Product Experience**. https://www.mindtheproduct.com/permaculture-for-agile-teams-amy-wagner-on-the-product-experience/
-
-### 4. Online courses
-#### E-learning 
-- [ ] **Career Essentials in Sustainable Tech by Microsoft and LinkedIn.** About 3.5 hours. A good overall introduction to the topic of sustainability. Covers areas such as Net Zero, carbon accounting, the circular economy, LCAs, procurement as well as some light-touch information on why digital services must also transition to being sustainable. The digital part of the course makes some claims that could be questioned or challenged. Requires a LinkedIn account. 
-https://www.linkedin.com/learning/paths/career-essentials-in-sustainable-tech-by-microsoft-and-linkedin
- 
-### 5. Articles to read
-There are hundreds of recent articles on these topics, here is a sampling of a few which are of interest.
-
-#### General interest
-* **The Staggering Ecological Impacts of Computation and the Cloud** - https://thereader.mitpress.mit.edu/the-staggering-ecological-impacts-of-computation-and-the-cloud/
-* **The UK government's IT carbon footprint has got worse - the transparency is welcome** - https://www.csofutures.com/news/the-uk-governments-it-carbon-footprint-has-got-worse-and-thats-not-all-bad-news/
-
-#### Agile
-* **Leveraging the Agile Manifesto for More Sustainability** - https://www.infoq.com/articles/agile-manifesto-sustainability/
-
-* **Be the Change – Sustainable Home and Agile Working** - Be the Change – Sustainable Home and Agile Working
-
-#### Greenwashing and team engagement 
-
-* **Our Digital Greenwashing Guide** - good summary of issues related to digital greenwashing. https://www.mightybytes.com/blog/digital-greenwashing-guide/ 
-
-* **Sustainability, a surprisingly successful KPI: GreenOps survey results** - https://climateaction.tech/blog/sustainability-kpi-greenops-survey-results/
-
-#### Measurement
-* **Cost as a proxy for carbon – the inconvenient truth** https://www.kainos.com/insights/blogs/cost-as-a-proxy-for-carbon-the-inconvenient-truth-part-1 and https://www.kainos.com/insights/blogs/cost-as-a-proxy-for-carbon-the-inconvenient-truth-part-2
-
-* **What is a Good Digital Carbon Rating?** - https://www.mightybytes.com/blog/digital-carbon-rating/ 
-
-
-## Glossary
-Are you new to terms like Scope 3, GHGs, the Rebound Effect SDGs? If so, please make use of the glossary to get familiar with the relevant concepts and terminology. [Digital sustainability glossary](glossary.md).
-
-
-
-
-
-
- 
-
-
-https://www.cisl.cam.ac.uk/education/learn-online 
-
-https://sas-dhrh.github.io/dhcc-toolkit/toolkit/teaching.html 
-
-### 4. Articles to read
-There are hundreds of recent articles on these topics, here is a sampling of a few which are of interest.
-
-https://www.gartner.com/en/podcasts/thinkcast/why-all-executives-should-focus-on-sustainable-technology-to-drive-growth
-
-https://kpmg.com/uk/en/home/media/press-releases/2023/01/climate-quitting-younger-workers-voting-esg.html
-
-https://www.linkedin.com/in/paulpolman/
-
-https://www.cisl.cam.ac.uk/education/learn-online/high-impact-leadership-online
-
-74 key practices for a sustainable digitalization https://resilio-solutions.com/wp-content/uploads/2023/02/Club-RGIT-15.07.22_v1.1_EN.pdf 
-
-FCDO: Digital development strategy 2024 to 2030 (Chapter 5) - https://www.gov.uk/government/publications/digital-development-strategy-2024-to-2030/digital-development-strategy-2024-to-2030#chapter-5----digital-sustainability-harnessing-digital-technologies-for-climate-and-the-environment
-
-https://e-estonia.com/estonia-to-become-the-greenest-digital-government-in-the-world/
-
-
-## Glossary
-Are you new to terms like Scope 3, GHGs, the Rebound Effect SDGs? If so, please make use of the glossary to get familiar with the relevant concepts and terminology. [Digital sustainability glossary](glossary.md).
-
