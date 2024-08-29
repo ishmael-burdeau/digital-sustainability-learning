@@ -69,7 +69,7 @@ The following are recommended for anyone wishing to discuss climate and environm
 
 - [ ] **Climate Changemaker Playbook** This palybook is based on 3 simple strategies supported by 9 tactics. The overall approach is research-based and is supported by case studies. Succinct and practical, this is a great way to get started. Free 36 page PDF. https://www.ashoka.org/en-ch/climate-changemaking-playbook 
 
-- [ ] **Talking Climate: From Research to Practice in Public Engagement** This books challenges assumptions around climate communications – for example myths around what motivates people. Available from the DWP Library for free at https://research.ebsco.com/c/uy344d/search/details/txrfyo7sub or on Climate Outreach at https://climateoutreach.org/reports/book-talking-climate-from-research-to-practice-in-public-engagement/ (first chapter is free) 
+- [ ] **Talking Climate: From Research to Practice in Public Engagement** This books challenges assumptions around climate communications – for example myths around what motivates people. Available from the DWP Library for free at https://ebookcentral.proquest.com/lib/dwp/detail.action?docID=4732575 or on Climate Outreach at https://climateoutreach.org/reports/book-talking-climate-from-research-to-practice-in-public-engagement/ (first chapter is free) 
 
 - [ ] **How Bad Are Bananas?** The definitive book on the carbon cost of everything. Very easy to read a pick up in small chunks. Answers some hard questions and makes some excellent comparisons between different products and activities. https://howbadarebananas.com/ 
 
