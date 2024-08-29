@@ -114,6 +114,10 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 
 * **Digital Sustainability (Unilever)** - a good example of a digital sustainability statement. https://www.unilever.com/digital-sustainability/
 
+* **Sustainability statement (Support for Education)** - another great example of a digital sustainability statement from DfE. https://www.sustainabilitysupportforeducation.org.uk/sustainability-statement
+
+* **Digital sustainability at the RCGP (Royal College of General Practitioners)** - as above. https://www.rcgp.org.uk/terms-conditions/digital-sustainability
+
 * **Our Digital Greenwashing Guide** - good summary of issues related to digital greenwashing. https://www.mightybytes.com/blog/digital-greenwashing-guide/ 
 
 ### Accessibility and sustainability  
