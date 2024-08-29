@@ -120,6 +120,10 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 
 * **Digital Sustainability (Unilever)** - a good example of a digital sustainability statement. https://www.unilever.com/digital-sustainability/
 
+* **Sustainability statement (Support for Education)** - another great example of a digital sustainability statement from DfE. https://www.sustainabilitysupportforeducation.org.uk/sustainability-statement
+
+* **Digital sustainability at the RCGP (Royal College of General Practitioners)** - as above. https://www.rcgp.org.uk/terms-conditions/digital-sustainability
+
 
 ## Glossary
 Are you new to terms like Scope 3, GHGs, the Rebound Effect SDGs? If so, please make use of the glossary to get familiar with the relevant concepts and terminology. [Digital sustainability glossary](glossary.md).
