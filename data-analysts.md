@@ -18,11 +18,15 @@ https://op.europa.eu/en/publication-detail/-/publication/d3b6c0a1-1171-11ee-b12e
 
 https://www.thegreenwebfoundation.org/news/data-sources-for-calculating-digital-emissions/
 
+https://www.nature.com/articles/d41586-024-02680-3
+
 ### Digital footprint tools
 
 https://impactco2.fr/usagenumerique/ 
 
 https://myimpact.isit-europe.org/
+
+https://www.marketreach.co.uk/mail-sustainability
 
 ### AI
 
@@ -46,6 +50,8 @@ Defra emissions guidance
 Kainos book chapter on measurement 
 
 'Data as plastic'
+
+https://op.europa.eu/en/publication-detail/-/publication/d3b6c0a1-1171-11ee-b12e-01aa75ed71a1 
 
 ## Glossary
 Are you new to terms like Scope 3, GHGs, the Rebound Effect SDGs? If so, please make use of the glossary to get familiar with the relevant concepts and terminology. [Digital sustainability glossary](glossary.md).
