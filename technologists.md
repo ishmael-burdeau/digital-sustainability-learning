@@ -41,7 +41,7 @@ These two courses are essential for understanding the basics of Green Software a
 
 Be familiar with the following and refer back to them as needed
 
--  **Green Software Maturity Matrix**. Self-evaluation tool to help organisations and teams understand their level of maturity in this area. https://maturity-matrix.greensoftware.foundation/
+-  **Green Software Maturity Matrix**. Self-evaluation tool to help organisations and teams understand their level of maturity in this area. [https://maturity-matrix.greensoftware.foundation/]([https://maturity-matrix.greensoftware.foundation/)
 
 ![GSF Maturity Matrix](gsf_maturity_matrix.svg)
 
@@ -57,7 +57,7 @@ Be familiar with the following and refer back to them as needed
 
   
 
--  **Green Software Patterns** (for architects). A well-researched and regularly updated set of patterns to reduce the environmental impacts of your architecture. https://patterns.greensoftware.foundation/
+-  **Green Software Patterns** (for architects). A well-researched and regularly updated set of patterns to reduce the environmental impacts of your architecture. [https://patterns.greensoftware.foundation/](https://patterns.greensoftware.foundation/)
 
   
 

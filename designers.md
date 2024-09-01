@@ -68,16 +68,11 @@ Web-based tools to rate web pages in terms of sustainability. Only useful for an
 
 ### 1. Books
 
--  **Sustainable Web Design** by Tom Greenwood
+-  **Sustainable Web Design** by Tom Greenwood. As the title suggests, this is more design than engineering focussed. It’s a good introduction to the area of Green Software, but is a little lacking in terms of detail or real-world examples. But it’s a fairly easy read. [https://learning.oreilly.com/library/view/sustainable-web-design/9781098128807/](https://learning.oreilly.com/library/view/sustainable-web-design/9781098128807/)
 
-As the title suggests, this is more design than engineering focussed. It’s a good introduction to the area of Green Software, but is a little lacking in terms of detail or real-world examples. But it’s a fairly easy read. [https://learning.oreilly.com/library/view/sustainable-web-design/9781098128807/](https://learning.oreilly.com/library/view/sustainable-web-design/9781098128807/)
+-  **Design for a Better World: Meaningful, Sustainable, Humanity Centered** by Don Norman. New book by one of the world's leading design thinkers. Don Norman has recently abandoned the notion of being 'user centred' in favour of 'humanity centred'. This is an accessible read and one for anyone concerned about how best to design for a sustainable future. [https://www.amazon.co.uk/Design-Better-World-Meaningful-Sustainable-ebook/dp/B0B4R7Z4ZH](https://www.amazon.co.uk/Design-Better-World-Meaningful-Sustainable-ebook/dp/B0B4R7Z4ZH)
 
--  **Design for a Better World: Meaningful, Sustainable, Humanity Centered** by Don Norman
-
-New book by one of the world's leading design thinkers. Don Norman has recently abandoned the notion of being 'user centred' in favour of 'humanity centred'. This is an accessible read and one for anyone concerned about how best to design for a sustainable future. [https://www.amazon.co.uk/Design-Better-World-Meaningful-Sustainable-ebook/dp/B0B4R7Z4ZH](https://www.amazon.co.uk/Design-Better-World-Meaningful-Sustainable-ebook/dp/B0B4R7Z4ZH)
-
--  **The Life-centred Design Guide** by Damian Lutz
-Lots of interesting and sometimes practical ways to bring non-human needs into the design process. Thought-provoking. [https://www.amazon.co.uk/Life-centred-Design-Guide-Damien-Lutz/dp/0645326658](https://www.amazon.co.uk/Life-centred-Design-Guide-Damien-Lutz/dp/0645326658)
+-  **The Life-centred Design Guide** by Damian Lutz. Lots of interesting and sometimes practical ways to bring non-human needs into the design process. Thought-provoking. [https://www.amazon.co.uk/Life-centred-Design-Guide-Damien-Lutz/dp/0645326658](https://www.amazon.co.uk/Life-centred-Design-Guide-Damien-Lutz/dp/0645326658)
 
 ### 2. Playbooks and longer reads
 
@@ -96,7 +91,7 @@ Lots of interesting and sometimes practical ways to bring non-human needs into t
 -  **Sustainability infused User Journey Mapping:** journey maps in Figma. [https://www.figma.com/community/file/1207376705533494920/sustainability-infused-user-journey-mapping](https://www.figma.com/community/file/1207376705533494920/sustainability-infused-user-journey-mapping)
 
 -  **Non-human Personas:** Figma-based personas to help let nature and the planet inform your design choices. [https://www.figma.com/community/file/1174367968861093309/non-human-personas](https://www.figma.com/community/file/1174367968861093309/non-human-personas)
-- 
+
 ### 4. Podcasts
 
 -  **Green IO:** weekly podcast hosted by Gaël Duez on green software and ICT, with frequent interviews looking at sustainable design practices. Recommended. [https://greenio.gaelduez.com/](https://greenio.gaelduez.com/)
