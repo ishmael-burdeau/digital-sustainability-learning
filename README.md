@@ -4,5 +4,5 @@ Training recommendations for digital roles, including:
 ## [Design](designers.md)
 ## [Leadership](leaders.md)
 ## [Engagement](communicators.md)
-## Data analysts
+## Data analysis
 ## [Product and delivery](product-and-delivery-managers.md)
