@@ -14,42 +14,42 @@ Go through the 'Executive Summary' to get started. Working through much of the e
 ## Executive summary
 Spend about 90 minutes understanding some of the key terms around digital sustainability and what this means for digital leaders. 
 
-- [ ] **Gartner's Top 10 Tech Trends for 2024** (4:05) Of course AI is the top trend, but it may also surprise you to learn that Gartner sees digital sustainability and green software as #3. Follow the link to fast-forward past the predictable AI part to hear what Gartner has to say on digital sustainability. https://www.youtube.com/live/N_sQbYJl820?si=uzb3S8TwmILxurBq&t=727
+- **Gartner's Top 10 Tech Trends for 2024** (4:05) Of course AI is the top trend, but it may also surprise you to learn that Gartner sees digital sustainability and green software as #3. Follow the link to fast-forward past the predictable AI part to hear what Gartner has to say on digital sustainability. https://www.youtube.com/live/N_sQbYJl820?si=uzb3S8TwmILxurBq&t=727
 
-- [ ] **e-Estonia podcast: shaping a sustainable digital era** (50:30) Estonia is regularly cited as the global leader in digital government. In this conversational episode, experts from Estonia discuss why they have decided to make sustainability a top objective. The short answer? 1) it's cheaper, 2) it's a legal requirement for all countries and 3) it's vital for attracting and retaining talent. https://e-estonia.com/e-estonia-podcast-shaping-a-sustainable-digital-era/ 
+- **e-Estonia podcast: shaping a sustainable digital era** (50:30) Estonia is regularly cited as the global leader in digital government. In this conversational episode, experts from Estonia discuss why they have decided to make sustainability a top objective. The short answer? 1) it's cheaper, 2) it's a legal requirement for all countries and 3) it's vital for attracting and retaining talent. https://e-estonia.com/e-estonia-podcast-shaping-a-sustainable-digital-era/ 
 
-- [ ] **Sustainability Maturity Model Explained**. (10:00) A useful article breaking down the Sustainability Maturity Path (created by PWC), explaining how organisations and leaders can use sustainability to create long-term viability and create value . https://ecochain.com/blog/sustainability-maturity-model/
+- **Sustainability Maturity Model Explained**. (10:00) A useful article breaking down the Sustainability Maturity Path (created by PWC), explaining how organisations and leaders can use sustainability to create long-term viability and create value . https://ecochain.com/blog/sustainability-maturity-model/
 
 ![PWC's Sustainability Maturity Model](sustainability_maturity_model.png)
 
-- [ ] **Green Software Maturity Matrix**. (15:00) A very useful self-assessment tool to check the maturity of your organisation with regards to digital sustainability. Most organisations are at Level 1. https://maturity-matrix.greensoftware.foundation/
+- **Green Software Maturity Matrix**. (15:00) A very useful self-assessment tool to check the maturity of your organisation with regards to digital sustainability. Most organisations are at Level 1. https://maturity-matrix.greensoftware.foundation/
 ![GSF Maturity Matrix](gsf_maturity_matrix.svg)
 
 ## Essential material 
 
 ### Short videos on sustainability and leadership
 
-- [ ] **The Impact of Global Trends on Sustainability | University of Cambridge** (2:21) On why high impact leaders need to understand sustainability. Part of the 'High Impact Leadership' course from the University of Cambridge Institute for Sustainability Leadership (CISL). https://www.youtube.com/watch?v=VxH0yra_D2Q
+- **The Impact of Global Trends on Sustainability | University of Cambridge** (2:21) On why high impact leaders need to understand sustainability. Part of the 'High Impact Leadership' course from the University of Cambridge Institute for Sustainability Leadership (CISL). https://www.youtube.com/watch?v=VxH0yra_D2Q
 
-- [ ] **Sustainable Leadership With Paul Polman** (1:57) Paul Polman is a leading thinker on sustainability and leadership. He is the author of 'Net Positive'. Polman is also listed #3 in the 'Thinkers 50' rankings'. https://www.youtube.com/watch?v=80pMz97s6HU
+- **Sustainable Leadership With Paul Polman** (1:57) Paul Polman is a leading thinker on sustainability and leadership. He is the author of 'Net Positive'. Polman is also listed #3 in the 'Thinkers 50' rankings'. https://www.youtube.com/watch?v=80pMz97s6HU
 
- - [ ] **Leadership for Sustainability: The Both/And Mindset** (2:37) Video from the Oxford Leadership programme on how leaders can adopt a both/and mindset to align corporate financial goals with the drive to make organisations more sustainable. https://www.youtube.com/watch?v=tx2qo46ag8I 
+ - **Leadership for Sustainability: The Both/And Mindset** (2:37) Video from the Oxford Leadership programme on how leaders can adopt a both/and mindset to align corporate financial goals with the drive to make organisations more sustainable. https://www.youtube.com/watch?v=tx2qo46ag8I 
 
-  - [ ] **What is Doughnut Economics? - with Kate Raworth** (1:35) The book 'Doughnut Economics' by Kate Raworth has been an inspiration to many. In this very short introduction she explains the meaning of the term and why we need to move to such a model. https://www.youtube.com/watch?v=kxQeb2PDz9M
+  - **What is Doughnut Economics? - with Kate Raworth** (1:35) The book 'Doughnut Economics' by Kate Raworth has been an inspiration to many. In this very short introduction she explains the meaning of the term and why we need to move to such a model. https://www.youtube.com/watch?v=kxQeb2PDz9M
  
  ### Longer watches on sustainability 
 
- - [ ] **Smart green world? Making digitalization work for sustainability** (18:12) Excellent TEDx talk by Tilmann Santarius on digital sufficiency. This talk examines both the direct impacts of digital on the environment, but also the potential for digital to improve our environmental impact. But it can often be a complex balance, due to the tendency for digital to increase demand. https://www.youtube.com/watch?v=lNkaGLMIm_Q 
+ - **Smart green world? Making digitalization work for sustainability** (18:12) Excellent TEDx talk by Tilmann Santarius on digital sufficiency. This talk examines both the direct impacts of digital on the environment, but also the potential for digital to improve our environmental impact. But it can often be a complex balance, due to the tendency for digital to increase demand. https://www.youtube.com/watch?v=lNkaGLMIm_Q 
 
- - [ ]  **What does it all mean: Net-zero, carbon neutral, climate positive, carbon negative? by Asim Hussain** (20:24) Good breakdown of some of the crucial terminology, focussed specifically on digital emissions. 20 minutes, broken into clear chapters. 
+ -  **What does it all mean: Net-zero, carbon neutral, climate positive, carbon negative? by Asim Hussain** (20:24) Good breakdown of some of the crucial terminology, focussed specifically on digital emissions. 20 minutes, broken into clear chapters. 
 https://youtu.be/HXEnbi64TdQ?si=Ff4eGg2uo4OUxsQm 
 
-* [ ] **BBC News: AI Decoded** Excellent report on the environmental impacts of AI with a panel of very knowledgable experts. Although it's about AI, it covers many other important areas of digital sustainability. https://www.youtube.com/watch?v=fjNacsyp28s
+* **BBC News: AI Decoded** Excellent report on the environmental impacts of AI with a panel of very knowledgable experts. Although it's about AI, it covers many other important areas of digital sustainability. https://www.youtube.com/watch?v=fjNacsyp28s
 
-- [ ] **Defining Sustainability: Absolutely** (11:30) TEDx talk by Anjila Hjalsted on the meaning of 'sustainability'. Leaders must understand what sustainability really means, through the use of better data. 
+- **Defining Sustainability: Absolutely** (11:30) TEDx talk by Anjila Hjalsted on the meaning of 'sustainability'. Leaders must understand what sustainability really means, through the use of better data. 
  https://www.youtube.com/watch?v=B-dCmbViDEQ 
 
- - [ ] **The New Leader** (20:46) TEDxStanford talk with Julia Novy. Insightful talk on the importance of understanding real user needs to create more sustainable solutions for complex systems. https://www.youtube.com/watch?v=DkrS3HZqXrQ 
+ - **The New Leader** (20:46) TEDxStanford talk with Julia Novy. Insightful talk on the importance of understanding real user needs to create more sustainable solutions for complex systems. https://www.youtube.com/watch?v=DkrS3HZqXrQ 
 
 
 ### Legal obligations and other government guidelines 
@@ -79,11 +79,11 @@ https://youtu.be/HXEnbi64TdQ?si=Ff4eGg2uo4OUxsQm
 
 ### 1. Podcasts 
 
-- [ ] **CXO Bytes:** new podcast hosted by Sanjay Podder, Chairperson of the Green Software Foundation, on tech leadership and sustainability. https://podcasts.bcast.fm/cxo-bytes 
+- **CXO Bytes:** new podcast hosted by Sanjay Podder, Chairperson of the Green Software Foundation, on tech leadership and sustainability. https://podcasts.bcast.fm/cxo-bytes 
 
-- [ ]   **Green IO:** weekly podcast hosted by Gaël Duez on green software and ICT, with frequent interviews looking at sustainable design practices. Recommended. https://greenio.gaelduez.com/ 
+-   **Green IO:** weekly podcast hosted by Gaël Duez on green software and ICT, with frequent interviews looking at sustainable design practices. Recommended. https://greenio.gaelduez.com/ 
 
-- [ ] **Why All Executives Should Focus on Sustainable Technology to Drive Growth**. One-off from Gartner. https://www.gartner.com/en/podcasts/thinkcast/why-all-executives-should-focus-on-sustainable-technology-to-drive-growth
+- **Why All Executives Should Focus on Sustainable Technology to Drive Growth**. One-off from Gartner. https://www.gartner.com/en/podcasts/thinkcast/why-all-executives-should-focus-on-sustainable-technology-to-drive-growth
 
 ### 2. People to follow 
 
@@ -99,13 +99,13 @@ Kate Raworth
 
 The following are recommended for anyone wishing to understand leadership from a sustainability perspective. For books related to the more technical aspects of digital sustainability, check the [technologists learning pathway](technologists.md)
 
-* [ ] **Sustainable IT Playbook for Technology Leaders** - Very good audio book, recommended. Covers all aspects of developing a sustainable ICT strategy. 
+* **Sustainable IT Playbook for Technology Leaders** - Very good audio book, recommended. Covers all aspects of developing a sustainable ICT strategy. 
 https://www.audible.co.uk/pd/Sustainable-IT-Playbook-for-Technology-Leaders-Audiobook/B0BSRCBCRL 
 
 
-* [ ] **Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist** A sustainability and economics best seller. https://www.amazon.co.uk/Doughnut-Economics-Seven-21st-Century-Economist/dp/1847941397/
+* **Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist** A sustainability and economics best seller. https://www.amazon.co.uk/Doughnut-Economics-Seven-21st-Century-Economist/dp/1847941397/
 
-* [ ] **Net Positive: How Courageous Companies Thrive by Giving More Than They Take** - Paul Polman argues that the companies of the future will profit by fixing the world's problems, not creating them. https://www.amazon.co.uk/Net-Positive-Courageous-Companies-Thrive/dp/1647821304
+* **Net Positive: How Courageous Companies Thrive by Giving More Than They Take** - Paul Polman argues that the companies of the future will profit by fixing the world's problems, not creating them. https://www.amazon.co.uk/Net-Positive-Courageous-Companies-Thrive/dp/1647821304
 
 
 ### 4. Articles to read

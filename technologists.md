@@ -6,33 +6,33 @@ The following is a list of material designed to support those in technical roles
 ### 1. Green software training 
 These two courses are essential for understanding the basics of Green Software and should only take a couple of hours to complete. They are free and open to all.
 
-- [ ]  **Sustainable software engineering overview**
+-  **Sustainable software engineering overview**
 Great into video series by Asim Hussain (Green Software Foundation). Very digestible, only takes about 30 minutes to complete. https://learn.microsoft.com/en-us/training/modules/sustainable-software-engineering-overview/
-- [ ]  **Green Software Practitioner**
+-  **Green Software Practitioner**
 Slightly more in-depth online course. Takes 2-3 hours to complete. Recommended. Take the short exam with the Linux Foundation to get certified. https://learn.greensoftware.foundation/ and https://training.linuxfoundation.org/training/green-software-for-practitioners-lfc131/
 
 ### 2. Videos
 
-- [ ] **Beth yw cynaliadwyedd digidol? / What is digital sustainability?** Panel discussion by the Centre for Digital Public Services in Wales. Covers all the main topics related to digital sustainability, especially from a UK government perspective. Panellists include Hannah Smith from the Green Web Foundation as well experts from Defra, Wholegrain Digital and the Centre for Sustainability. Despite the title, the content is all in English. The first 25 minutes are devoted to each panelist speaking for 5 minutes, followed by a wider discusson. It's generally a non-technical discusson, so suitable for all. 1 hour 12 minutes, but broken up into clear chapters. 
+- **Beth yw cynaliadwyedd digidol? / What is digital sustainability?** Panel discussion by the Centre for Digital Public Services in Wales. Covers all the main topics related to digital sustainability, especially from a UK government perspective. Panellists include Hannah Smith from the Green Web Foundation as well experts from Defra, Wholegrain Digital and the Centre for Sustainability. Despite the title, the content is all in English. The first 25 minutes are devoted to each panelist speaking for 5 minutes, followed by a wider discusson. It's generally a non-technical discusson, so suitable for all. 1 hour 12 minutes, but broken up into clear chapters. 
 https://youtu.be/Wn5urKcquFE?si=84Th0OkXNlEPjvGd
 
-- [ ]  **What does it all mean: Net-zero, carbon neutral, climate positive, carbon negative? by Asim Hussain** Good breakdown of some of the crucial terminology, focussed speficically on digital emissions. 20 minutes, broken into clear chapters. 
+-  **What does it all mean: Net-zero, carbon neutral, climate positive, carbon negative? by Asim Hussain** Good breakdown of some of the crucial terminology, focussed speficically on digital emissions. 20 minutes, broken into clear chapters. 
 https://youtu.be/HXEnbi64TdQ?si=Ff4eGg2uo4OUxsQm 
 
-* [ ] **BBC News: AI Decoded** Excellent report on the environmental impacts of AI with a panel of very knowledgable experts. Although it's about AI, it covers many other important areas of digital sustainability. https://www.youtube.com/watch?v=fjNacsyp28s
+* **BBC News: AI Decoded** Excellent report on the environmental impacts of AI with a panel of very knowledgable experts. Although it's about AI, it covers many other important areas of digital sustainability. https://www.youtube.com/watch?v=fjNacsyp28s
 
 ### 3. Guidelines
 Be familiar with the following and refer back to them as needed
-- [ ] **Green Software Maturity Matrix**. Self-evaluation tool to help organisations and teams understand their level of maturity in this area. https://maturity-matrix.greensoftware.foundation/
+- **Green Software Maturity Matrix**. Self-evaluation tool to help organisations and teams understand their level of maturity in this area. https://maturity-matrix.greensoftware.foundation/
 ![GSF Maturity Matrix](gsf_maturity_matrix.svg)
 
-- [ ] **W3C Web Sustainability Guidelines, 1.0.** A new initiative, covers business, design and technology aspects of digital services. See https://w3c.github.io/sustyweb/. Condensed version: https://w3c.github.io/sustyweb/glance.html and quick reference: https://w3c.github.io/sustyweb/quickref.html
-- [ ] **GOV.UK Technology Code of Practice**. Point 12 outlines the GOV.UK position on sustainability in ICT. https://www.gov.uk/guidance/make-your-technology-sustainable 
+- **W3C Web Sustainability Guidelines, 1.0.** A new initiative, covers business, design and technology aspects of digital services. See https://w3c.github.io/sustyweb/. Condensed version: https://w3c.github.io/sustyweb/glance.html and quick reference: https://w3c.github.io/sustyweb/quickref.html
+- **GOV.UK Technology Code of Practice**. Point 12 outlines the GOV.UK position on sustainability in ICT. https://www.gov.uk/guidance/make-your-technology-sustainable 
 
-- [ ] **Web Sustainability Guidelines.**
+- **Web Sustainability Guidelines.**
 Now in their sixth draft, the Web Sustainability Guidelines consist of 94 recommendations to help teams create more sustainable digital products and services. https://sustainablewebdesign.org/guidelines/
 
-- [ ] **Green Software Patterns** (for architects). A well-researched and regularly updated set of patterns to reduce the environmental impacts of your architecture. https://patterns.greensoftware.foundation/     
+- **Green Software Patterns** (for architects). A well-researched and regularly updated set of patterns to reduce the environmental impacts of your architecture. https://patterns.greensoftware.foundation/     
 
 ## Websites to explore
 
@@ -55,28 +55,28 @@ Web-based tools to rate web pages in terms of sustainability. Only useful for an
 ### 1. Online courses
 #### E-learning 
 These two courses are both very good and recommended if you have the time. 
-- [ ] **Career Essentials in Sustainable Tech by Microsoft and LinkedIn.** About 3.5 hours. A good overall introduction to the topic of sustainability. Covers areas such as Net Zero, carbon accounting, the circular economy, LCAs, procurement as well as some light-touch information on why digital services must also transition to being sustainable. The digital part of the course makes some claims that could be questioned or challenged. Requires a LinkedIn account. 
+- **Career Essentials in Sustainable Tech by Microsoft and LinkedIn.** About 3.5 hours. A good overall introduction to the topic of sustainability. Covers areas such as Net Zero, carbon accounting, the circular economy, LCAs, procurement as well as some light-touch information on why digital services must also transition to being sustainable. The digital part of the course makes some claims that could be questioned or challenged. Requires a LinkedIn account. 
 https://www.linkedin.com/learning/paths/career-essentials-in-sustainable-tech-by-microsoft-and-linkedin
-- [ ]  **Sustainable Software Engineering**
+-  **Sustainable Software Engineering**
 Fairly in-depth course with some Python coding examples. Takes 6-8 hours to complete, but the videos may be blocked for some as they are on Vimeo. Note that the graded coding exercises are not available in self-paced mode. The pace can be a little slow at times, but there are some very good arguments and examples made. Part 1 is focussed on the problem of digital emissions and higher-level thinking, while Part 2 is more focussed on technical approaches. Part 1 is strongly recommended for all, while Part 2 is a little weaker.
 https://open.hpi.de/courses/sustainablesoftware2022
 
 #### Code walkthroughs 
-- [ ]  **Impact Framework**
+-  **Impact Framework**
 Step-by-step tutorials created for Carbon Hack 24. https://github.com/heaversm/carbonhack-if/wiki and https://www.youtube.com/playlist?list=PLC_E8ugf8_Oz86WzXHZ1oqVLvxZSWo4F3 
 
 ### 2. Books
-- [ ] **Building Green Software**.
+- **Building Green Software**.
 Good and very broad introduction to Green Software. Aimed more at those new to Green Software, it covers all the main topics. Could be strengthened by more practical examples or how-to advice.  
 https://learning.oreilly.com/library/view/building-green-software/9781098150617/  
-- [ ] **Digital Sustainability: The Need for Greener Software.** Similar to the previous title, a solid and succinct introduction to the topic. Good chapters on AI, service measurement and team measurement. https://www.amazon.co.uk/gp/product/B0CYXVD5L2/
-- [ ] **How can engineers make IT more sustainable?**
+- **Digital Sustainability: The Need for Greener Software.** Similar to the previous title, a solid and succinct introduction to the topic. Good chapters on AI, service measurement and team measurement. https://www.amazon.co.uk/gp/product/B0CYXVD5L2/
+- **How can engineers make IT more sustainable?**
 Free whitepaper (44 pages). Good and easy-to-read summary of the issues and some approaches to addressing them.
 https://www.scaleway.com/en/blog/how-can-engineers-make-it-more-sustainable-part-1/
 
 ### 3. Podcasts 
-- [ ]   **Environment variables:** weekly podcast by the Green Web Foundation. Often technical, covers a wide range of topics. Recommended. https://podcast.greensoftware.foundation
-- [ ]   **Green IO:** weekly podcast hosted by Gaël Duez on green software and ICT. Recommended. https://greenio.gaelduez.com/ 
+-   **Environment variables:** weekly podcast by the Green Web Foundation. Often technical, covers a wide range of topics. Recommended. https://podcast.greensoftware.foundation
+-   **Green IO:** weekly podcast hosted by Gaël Duez on green software and ICT. Recommended. https://greenio.gaelduez.com/ 
 
 ### 4. Articles to read
 There are hundreds of recent articles on these topics, here is a sampling of a few which are of interest.

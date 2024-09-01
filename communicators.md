@@ -8,37 +8,37 @@ The following is a list of material designed to support those wishing to influen
 There are many communities which are worth joining within the government and public sector which can increase your knowledge and expand your network. 
 
 #### Digital sustainability  
-- [ ] International group of tech workers, organising events and publishers of Branch magazine. Active Slack community. https://climateaction.tech/
+- International group of tech workers, organising events and publishers of Branch magazine. Active Slack community. https://climateaction.tech/
 
 #### Government environmental and climate  
-- [ ] **GOV News**. cross-government informal community space for the UK public sector. https://community.gov.news
-- [ ] **X-GOV Slack**. Digital space for civil servants to share and collaborate across government. There are several channels devoted to sustainability. https://ukgovernmentdigital.slack.coom
-- [ ] **Monthly X-gov climate show and tells**. As the name suggests, this group meets monthly to share work being done across the public sector and wider. The format is 5 minutes to present, 5 minutes Q&A. See http://bit.ly/govclimateinfo and http://bit.ly/climatespeak 
-- [ ] **Civil Service Environment Network (CSEN)**. General-purpose group which publishes articles and organises occasional events. You must be a civil servant to join.  https://www.civilserviceenvironmentnetwork.org/
+- **GOV News**. cross-government informal community space for the UK public sector. https://community.gov.news
+- **X-GOV Slack**. Digital space for civil servants to share and collaborate across government. There are several channels devoted to sustainability. https://ukgovernmentdigital.slack.coom
+- **Monthly X-gov climate show and tells**. As the name suggests, this group meets monthly to share work being done across the public sector and wider. The format is 5 minutes to present, 5 minutes Q&A. See http://bit.ly/govclimateinfo and http://bit.ly/climatespeak 
+- **Civil Service Environment Network (CSEN)**. General-purpose group which publishes articles and organises occasional events. You must be a civil servant to join.  https://www.civilserviceenvironmentnetwork.org/
 
 #### Other 
 
-- [ ]  **Institute of Environmental Management and Assessment (IEMA**). A global professional body which has good representation in the UK public sector. Your department should be able to fund your membership. https://www.iema.net/
+-  **Institute of Environmental Management and Assessment (IEMA**). A global professional body which has good representation in the UK public sector. Your department should be able to fund your membership. https://www.iema.net/
 
 ## Activities (suggestion - try 1)
-- [ ] **Community 10,000**. DWP-supported volunteering initiative. If you are not in DWP, then ask, your department or employer may offer something similar. Volunteering on nature-based activities is a great way to reconnect and engage with other like-minded people. https://dwpdigital.blog.gov.uk/2020/03/13/digging-wheelbarrows-and-picks-dwp-digital-volunteers-in-the-community/
+- **Community 10,000**. DWP-supported volunteering initiative. If you are not in DWP, then ask, your department or employer may offer something similar. Volunteering on nature-based activities is a great way to reconnect and engage with other like-minded people. https://dwpdigital.blog.gov.uk/2020/03/13/digging-wheelbarrows-and-picks-dwp-digital-volunteers-in-the-community/
 
-- [ ] **Climate Fresk**. Climate Fresk originated in France, but is now a global phenomenon. It's a low-cost 3-hour workshop (in person or virtual) in which attendees collaborate to understand the interconnection of human activity and climate change. The word 'fresk' is short for 'fresco', as the workshop uses a visual collage to bring together the ideas. Once you have attended a Climate Fresk, there is the opportunity to take a short training course to become a facilitator. Find a Climate Fresk local to you at https://climatefresk.org/world/
+- **Climate Fresk**. Climate Fresk originated in France, but is now a global phenomenon. It's a low-cost 3-hour workshop (in person or virtual) in which attendees collaborate to understand the interconnection of human activity and climate change. The word 'fresk' is short for 'fresco', as the workshop uses a visual collage to bring together the ideas. Once you have attended a Climate Fresk, there is the opportunity to take a short training course to become a facilitator. Find a Climate Fresk local to you at https://climatefresk.org/world/
 
-- [ ] **Digital Collage**. Similar to the Climate Fresk, but looking at the impact of digital activity. https://digitalcollage.org/index.html
+- **Digital Collage**. Similar to the Climate Fresk, but looking at the impact of digital activity. https://digitalcollage.org/index.html
 
-- [ ] **Carbon Literacy**. According to their website, 'Learners who have completed a day’s worth of Carbon Literacy learning can be certified as ‘Carbon Literate’' There are options for both individuals and organisations. https://carbonliteracy.com/individual/courses/ 
+- **Carbon Literacy**. According to their website, 'Learners who have completed a day’s worth of Carbon Literacy learning can be certified as ‘Carbon Literate’' There are options for both individuals and organisations. https://carbonliteracy.com/individual/courses/ 
 
-- [ ] **Giki Zero**. There are quite a few online carbon calculators and apps, Giki has a free website and mobile app to help you calculate your own footprint, combined with education, nudges and challenges. Why not test it out on your own or with a few colleagues or friends? https://zero.giki.earth/  
+- **Giki Zero**. There are quite a few online carbon calculators and apps, Giki has a free website and mobile app to help you calculate your own footprint, combined with education, nudges and challenges. Why not test it out on your own or with a few colleagues or friends? https://zero.giki.earth/  
 
 ### Videos (suggestion - watch 2)
 
-- [ ] **The Systems Iceberg Explained** - A systems thinking model that is useful when considering approaches to addressing issues such as sustainability and the environment. https://www.youtube.com/watch?v=y6h2_EcOOcM
+- **The Systems Iceberg Explained** - A systems thinking model that is useful when considering approaches to addressing issues such as sustainability and the environment. https://www.youtube.com/watch?v=y6h2_EcOOcM
 
-- [ ]  **What does it all mean: Net-zero, carbon neutral, climate positive, carbon negative? by Asim Hussain** - Good breakdown of some of the crucial terminology, focussed specifically on digital emissions. 20 minutes, broken into clear chapters. 
+-  **What does it all mean: Net-zero, carbon neutral, climate positive, carbon negative? by Asim Hussain** - Good breakdown of some of the crucial terminology, focussed specifically on digital emissions. 20 minutes, broken into clear chapters. 
 https://youtu.be/HXEnbi64TdQ?si=Ff4eGg2uo4OUxsQm 
 
-* [ ] **BBC News: AI Decoded** Excellent report on the environmental impacts of AI with a panel of very knowledgable experts. Although it's about AI, it covers many other important areas of digital sustainability. https://www.youtube.com/watch?v=fjNacsyp28s
+* **BBC News: AI Decoded** Excellent report on the environmental impacts of AI with a panel of very knowledgable experts. Although it's about AI, it covers many other important areas of digital sustainability. https://www.youtube.com/watch?v=fjNacsyp28s
 
 * **Clouded II: Does Cloud Cost the Earth?** - Feature-length documentary on the environmental impacts of cloud computing. Engrossing, even for non-techies. https://www.clouded.tv/ (trailer at https://www.youtube.com/watch?v=CPLMyY71_eM)
 
@@ -65,21 +65,21 @@ The following 2 tools help calculate your online footprint. Sadly there is no re
 
 The following are recommended for anyone wishing to discuss climate and environmental issues, which is often challenging. For books related to digital sustainability, check the [technologists learning pathway](technologists.md)
 
-- [ ] **Britain Talks Climate** Free, in-depth resource by the group Climate Outreach. The report segments the British public into 7 broad groups and suggests strategies for engagement based on values. https://climateoutreach.org/reports/britain-talks-climate/
+- **Britain Talks Climate** Free, in-depth resource by the group Climate Outreach. The report segments the British public into 7 broad groups and suggests strategies for engagement based on values. https://climateoutreach.org/reports/britain-talks-climate/
 
-- [ ] **Climate Changemaker Playbook** This palybook is based on 3 simple strategies supported by 9 tactics. The overall approach is research-based and is supported by case studies. Succinct and practical, this is a great way to get started. Free 36 page PDF. https://www.ashoka.org/en-ch/climate-changemaking-playbook 
+- **Climate Changemaker Playbook** This palybook is based on 3 simple strategies supported by 9 tactics. The overall approach is research-based and is supported by case studies. Succinct and practical, this is a great way to get started. Free 36 page PDF. https://www.ashoka.org/en-ch/climate-changemaking-playbook 
 
-- [ ] **Talking Climate: From Research to Practice in Public Engagement** This books challenges assumptions around climate communications – for example myths around what motivates people. Available from the DWP Library for free at https://ebookcentral.proquest.com/lib/dwp/detail.action?docID=4732575 or on Climate Outreach at https://climateoutreach.org/reports/book-talking-climate-from-research-to-practice-in-public-engagement/ (first chapter is free) 
+- **Talking Climate: From Research to Practice in Public Engagement** This books challenges assumptions around climate communications – for example myths around what motivates people. Available from the DWP Library for free at https://ebookcentral.proquest.com/lib/dwp/detail.action?docID=4732575 or on Climate Outreach at https://climateoutreach.org/reports/book-talking-climate-from-research-to-practice-in-public-engagement/ (first chapter is free) 
 
-- [ ] **How Bad Are Bananas?** The definitive book on the carbon cost of everything. Very easy to read a pick up in small chunks. Answers some hard questions and makes some excellent comparisons between different products and activities. https://howbadarebananas.com/ 
+- **How Bad Are Bananas?** The definitive book on the carbon cost of everything. Very easy to read a pick up in small chunks. Answers some hard questions and makes some excellent comparisons between different products and activities. https://howbadarebananas.com/ 
 
-- [ ] **How to Talk About Climate Change in a Way That Makes a Difference** Highly recommended if you are interested in how to discuss climate change with those perhaps less engaged than you. The author takes a psychological approach, considering the roles of different emotions and how they affect our willingness to engage or  act.  https://www.amazon.co.uk/About-Climate-Change-Makes-Difference/dp/1911632760 or https://www.audible.co.uk/pd/How-to-Talk-About-Climate-Change-Audiobook/100403055X 
+- **How to Talk About Climate Change in a Way That Makes a Difference** Highly recommended if you are interested in how to discuss climate change with those perhaps less engaged than you. The author takes a psychological approach, considering the roles of different emotions and how they affect our willingness to engage or  act.  https://www.amazon.co.uk/About-Climate-Change-Makes-Difference/dp/1911632760 or https://www.audible.co.uk/pd/How-to-Talk-About-Climate-Change-Audiobook/100403055X 
 
-- [ ] **It's Not Just You** Recent book on the topic of eco-anxiety. Tsui sees climate 'anxiety' as something which is experienced very differently in the Global South as compared to those in the affluent West. https://www.amazon.co.uk/Its-Not-Just-Tori-Tsui-ebook/dp/B099SGJ6F6
+- **It's Not Just You** Recent book on the topic of eco-anxiety. Tsui sees climate 'anxiety' as something which is experienced very differently in the Global South as compared to those in the affluent West. https://www.amazon.co.uk/Its-Not-Just-Tori-Tsui-ebook/dp/B099SGJ6F6
 
-- [ ] **Not the End of the World** If you are looking for an optimistic read, this is worth checking out. Hannah Ritchie from Our World in Data, goes pretty deep to take apart some of the more common misunderstandings around the wider questions of sustainability (nt just climate change). A very hopeful read, but also challenging in many places, as she takes apart many of the myths of eco-doomerism. https://www.amazon.co.uk/Not-End-World-Generation-Sustainable/dp/1784745006 
+- **Not the End of the World** If you are looking for an optimistic read, this is worth checking out. Hannah Ritchie from Our World in Data, goes pretty deep to take apart some of the more common misunderstandings around the wider questions of sustainability (nt just climate change). A very hopeful read, but also challenging in many places, as she takes apart many of the myths of eco-doomerism. https://www.amazon.co.uk/Not-End-World-Generation-Sustainable/dp/1784745006 
 
-- [ ] **Communication Design Resources from the Climate Designers Resource Library** - Repository of useful resources related to communicating for sustainability through design. https://climatedesigners.notion.site/Communication-Design-Resources-b4cc50460e00426fad18c62c1470dd41
+- **Communication Design Resources from the Climate Designers Resource Library** - Repository of useful resources related to communicating for sustainability through design. https://climatedesigners.notion.site/Communication-Design-Resources-b4cc50460e00426fad18c62c1470dd41
 
 ### Articles to read (suggestion - read 2 or 3 that look interesting)
 There are hundreds of recent articles on these topics, here is a sampling of a few which are of interest.
@@ -120,11 +120,11 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 
 ### Podcasts (suggestion - listen to 1 episode form each category)
 #### Technology 
-- [ ]   **Environment variables:** weekly podcast by the Green Web Foundation. Often technical, covers a wide range of topics. Recommended. https://podcast.greensoftware.foundation
-- [ ]   **Green IO:** weekly podcast hosted by Gaël Duez on green software and ICT. Recommended. https://greenio.gaelduez.com/ 
+-   **Environment variables:** weekly podcast by the Green Web Foundation. Often technical, covers a wide range of topics. Recommended. https://podcast.greensoftware.foundation
+-   **Green IO:** weekly podcast hosted by Gaël Duez on green software and ICT. Recommended. https://greenio.gaelduez.com/ 
 
 #### Climate change
-- [ ] **Outrage + Optimism**. Not a tech podcast, but worth listening to as a leading climate change resource.
+- **Outrage + Optimism**. Not a tech podcast, but worth listening to as a leading climate change resource.
 https://www.outrageandoptimism.org/ or https://open.spotify.com/show/5Rbif0NfMJDT2zVaadZBBq
 
 * **Civil Service Climate + Environment Network**. Not a tech podcast either. But relevant to civil servants. 

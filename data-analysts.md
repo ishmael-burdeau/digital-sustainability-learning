@@ -36,13 +36,15 @@ https://sustain.algorithmwatch.org/
 
 * **Project RAISE (Responsible AI Strategy for the Environment) from the Global Partnership on AI**. This group has produced several papers on the impacts of AI on the environment. They also wrote the 2021 guidelines *Climate change and AI: Recommendations for government action* which is worth looking at. See https://www.gpai.ai/projects/responsible-ai/environment/
 
-* [ ] **BBC News: AI Decoded** Excellent report on the environmental impacts of AI with a panel of very knowledgable experts. Although it's about AI, it covers many other important areas of digital sustainability. https://www.youtube.com/watch?v=fjNacsyp28s
+* **BBC News: AI Decoded** Excellent report on the environmental impacts of AI with a panel of very knowledgable experts. Although it's about AI, it covers many other important areas of digital sustainability. https://www.youtube.com/watch?v=fjNacsyp28s
 
 ### Other 
 
 https://www.linkedin.com/pulse/cloud-over-on-prem-like-cars-trains-sustainability-yelle-lieder-knd3e/  
 
+https://hardware-checker.green-coding.io/
 
+https://www.green-coding.io/
 
 Possible other topics/links
 Defra emissions guidance

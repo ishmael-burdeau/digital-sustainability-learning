@@ -6,30 +6,30 @@ The following is a list of material designed to support those in design roles to
 ### 1. Green software training 
 These two courses are essential for understanding the basics of Green Software and should only take a couple of hours to complete. They are free and open to all.
 
-- [ ]  **Sustainable software engineering overview**
+- **Sustainable software engineering overview**
 Great into video series by Asim Hussain (Green Software Foundation). Very digestible, only takes about 30 minutes to complete. https://learn.microsoft.com/en-us/training/modules/sustainable-software-engineering-overview/
-- [ ]  **Green Software Practitioner**
+-  **Green Software Practitioner**
 Slightly more in-depth online course. Takes 2-3 hours to complete. Recommended. Take the short exam with the Linux Foundation to get certified. https://learn.greensoftware.foundation/ and https://training.linuxfoundation.org/training/green-software-for-practitioners-lfc131/
 
 ### 2. Videos
 
-- [ ] **Tom Greenwood: A sustainable web for everyone** Tom Greenwood was the lead author of the Sustainable Web Manifesto, edits the monthly green web newsletter, Curiously Green, and is author of the book, Sustainable Web Design. This 36 minute presentation by Tom is divided up into small, digestible chunks and covers all the key topics in a non-technical way. https://www.youtube.com/watch?v=ebxeXqjesOo
+- **Tom Greenwood: A sustainable web for everyone** Tom Greenwood was the lead author of the Sustainable Web Manifesto, edits the monthly green web newsletter, Curiously Green, and is author of the book, Sustainable Web Design. This 36 minute presentation by Tom is divided up into small, digestible chunks and covers all the key topics in a non-technical way. https://www.youtube.com/watch?v=ebxeXqjesOo
 
-- [ ] **Beth yw cynaliadwyedd digidol? / What is digital sustainability?** Panel discussion by the Centre for Digital Public Services in Wales. Covers all the main topics related to digital sustainability, especially from a UK government perspective. Panellists include Hannah Smith from the Green Web Foundation as well experts from Defra, Wholegrain Digital and the Centre for Sustainability. Despite the title, the content is all in English. The first 25 minutes are devoted to each panelist speaking for 5 minutes, followed by a wider discusson. It's generally a non-technical discusson, so suitable for all. 1 hour 12 minutes, but broken up into clear chapters. 
+- **Beth yw cynaliadwyedd digidol? / What is digital sustainability?** Panel discussion by the Centre for Digital Public Services in Wales. Covers all the main topics related to digital sustainability, especially from a UK government perspective. Panellists include Hannah Smith from the Green Web Foundation as well experts from Defra, Wholegrain Digital and the Centre for Sustainability. Despite the title, the content is all in English. The first 25 minutes are devoted to each panelist speaking for 5 minutes, followed by a wider discusson. It's generally a non-technical discusson, so suitable for all. 1 hour 12 minutes, but broken up into clear chapters. 
 https://youtu.be/Wn5urKcquFE?si=84Th0OkXNlEPjvGd
 
-- [ ]  **What does it all mean: Net-zero, carbon neutral, climate positive, carbon negative? by Asim Hussain** Good breakdown of some of the crucial terminology, focussed speficically on digital emissions. 20 minutes, broken into clear chapters. 
+- **What does it all mean: Net-zero, carbon neutral, climate positive, carbon negative? by Asim Hussain** Good breakdown of some of the crucial terminology, focussed speficically on digital emissions. 20 minutes, broken into clear chapters. 
 https://youtu.be/HXEnbi64TdQ?si=Ff4eGg2uo4OUxsQm 
 
 ### 3. Guidelines
-- [ ] **W3C Web Sustainability Guidelines, 1.0.** A new initiative, covers business, design and technology aspects of digital services. See https://w3c.github.io/sustyweb/. Condensed version: https://w3c.github.io/sustyweb/glance.html and quick reference: https://w3c.github.io/sustyweb/quickref.html
+- **W3C Web Sustainability Guidelines, 1.0.** A new initiative, covers business, design and technology aspects of digital services. See https://w3c.github.io/sustyweb/. Condensed version: https://w3c.github.io/sustyweb/glance.html and quick reference: https://w3c.github.io/sustyweb/quickref.html
 
-- [ ] **Web Sustainability Guidelines.**
+- **Web Sustainability Guidelines.**
 Now in their sixth draft, the Web Sustainability Guidelines consist of 94 recommendations to help teams create more sustainable digital products and services. https://sustainablewebdesign.org/guidelines/
 
-- [ ] **The intro guide to digital eco-design**. French-led project for designers, developed in part by the team which helped write the W3C Web Sustainability Guidelines. See The intro guide to digital eco-design. In French, but can be made accessible using auto-translate tools. See https://eco-conception.designersethiques.org/guide/en/
+- **The intro guide to digital eco-design**. French-led project for designers, developed in part by the team which helped write the W3C Web Sustainability Guidelines. See The intro guide to digital eco-design. In French, but can be made accessible using auto-translate tools. See https://eco-conception.designersethiques.org/guide/en/
 
-- [ ] **Planet Centred Design**. A new proposal by Defra to support those designing and building digital services. See https://defradigital.blog.gov.uk/2023/03/06/how-being-planet-centric-can-really-make-a-difference-when-designing-services/ and https://drive.google.com/file/d/161GLM3MiuLmehr4zR6yfmFRV67ON4ml1/view 
+- **Planet Centred Design**. A new proposal by Defra to support those designing and building digital services. See https://defradigital.blog.gov.uk/2023/03/06/how-being-planet-centric-can-really-make-a-difference-when-designing-services/ and https://drive.google.com/file/d/161GLM3MiuLmehr4zR6yfmFRV67ON4ml1/view 
 
 
 ## Websites to explore
@@ -62,43 +62,43 @@ Web-based tools to rate web pages in terms of sustainability. Only useful for an
 ## Optional training materials 
 
 ### 1. Books
-- [ ] **Sustainable Web Design** by Tom Greenwood
+- **Sustainable Web Design** by Tom Greenwood
 As the title suggests, this is more design than engineering focussed. It’s a good introduction to the area of Green Software, but is a little lacking in terms of detail or real-world examples. But it’s a fairly easy read. https://learning.oreilly.com/library/view/sustainable-web-design/9781098128807/ 
 
-- [ ] **Design for a Better World: Meaningful, Sustainable, Humanity Centered** by Don Norman 
+- **Design for a Better World: Meaningful, Sustainable, Humanity Centered** by Don Norman 
 New book by one of the world's leading design thinkers. Don Norman has recently abandoned the notion of being 'user centred' in favour of 'humanity centred'. This is an accessible read and one for anyone concerned about how best to design for a sustainable future. https://www.amazon.co.uk/Design-Better-World-Meaningful-Sustainable-ebook/dp/B0B4R7Z4ZH
 
-- [ ] **The Life-centred Design Guide** by Damian Lutz
+- **The Life-centred Design Guide** by Damian Lutz
 Lots of interesting and sometimes practical ways to bring non-human needs into the design process. Thought-provoking. https://www.amazon.co.uk/Life-centred-Design-Guide-Damien-Lutz/dp/0645326658
 
 ### 2. Playbooks and longer reads 
 
-- [ ] **Humanity-Centered Design** by Don Norman. The renowned design thinker has adapted his approach in the face of the environmental crisis. Gone are the terms 'user centred' and even 'human centred'. Don now asks us to instead be 'humanity centred'. Read and learn more here: https://www.interaction-design.org/literature/topics/humanity-centered-design
+- **Humanity-Centered Design** by Don Norman. The renowned design thinker has adapted his approach in the face of the environmental crisis. Gone are the terms 'user centred' and even 'human centred'. Don now asks us to instead be 'humanity centred'. Read and learn more here: https://www.interaction-design.org/literature/topics/humanity-centered-design
 
-- [ ] **Responsible tech playbook** by Thoughtworks. This covers much for than sustainability, with a real focus on ethics in the design process. Filled with useful ideas and activities. https://www.thoughtworks.com/en-gb/about-us/social-change/responsible-tech-playbook and https://www.thoughtworks.com/en-gb/insights/topic/responsible-tech 
+- **Responsible tech playbook** by Thoughtworks. This covers much for than sustainability, with a real focus on ethics in the design process. Filled with useful ideas and activities. https://www.thoughtworks.com/en-gb/about-us/social-change/responsible-tech-playbook and https://www.thoughtworks.com/en-gb/insights/topic/responsible-tech 
 
-- [ ] **How to become a Climate-Conscious Product Manager** by François Burra. Excellent downloadable resource pack. http://climateproductleaders.org/
+- **How to become a Climate-Conscious Product Manager** by François Burra. Excellent downloadable resource pack. http://climateproductleaders.org/
 
-- [ ] **Curiously Green** by Wholegrain Digital. Digital sustainability newsletter with a focus on design. https://www.wholegraindigital.com/curiously-green/
+- **Curiously Green** by Wholegrain Digital. Digital sustainability newsletter with a focus on design. https://www.wholegraindigital.com/curiously-green/
 
 ### 3. Design tools
-- [ ]  **Life-centred design: free resources:** frameworks, personas and more. https://lifecentred.design/free-resources/
+-  **Life-centred design: free resources:** frameworks, personas and more. https://lifecentred.design/free-resources/
 
-- [ ]  **Sustainability infused User Journey Mapping:** journey maps in Figma. https://www.figma.com/community/file/1207376705533494920/sustainability-infused-user-journey-mapping
+-  **Sustainability infused User Journey Mapping:** journey maps in Figma. https://www.figma.com/community/file/1207376705533494920/sustainability-infused-user-journey-mapping
 
-- [ ]  **Non-human Personas:** Figma-based personas to help let nature and the planet inform your design choices. https://www.figma.com/community/file/1174367968861093309/non-human-personas
+-  **Non-human Personas:** Figma-based personas to help let nature and the planet inform your design choices. https://www.figma.com/community/file/1174367968861093309/non-human-personas
 
 
 ### 4. Podcasts 
 
-- [ ]   **Green IO:** weekly podcast hosted by Gaël Duez on green software and ICT, with frequent interviews looking at sustainable design practices. Recommended. https://greenio.gaelduez.com/  
-- [ ]   **SUX:** The Sustainable UX Network organises training and events, but most of these are in continental Europe. They do put out a fairly regular podcast, and have interviewed digital design sustainability experts such as Tom Greenwood, Hannah Smith and Tim Frick as well as stalwarts such as Don Norman. https://sustainableuxnetwork.com/#podcast and https://open.spotify.com/show/4PzK5bq6Q8x7NOcEPl4I6j
+-   **Green IO:** weekly podcast hosted by Gaël Duez on green software and ICT, with frequent interviews looking at sustainable design practices. Recommended. https://greenio.gaelduez.com/  
+-   **SUX:** The Sustainable UX Network organises training and events, but most of these are in continental Europe. They do put out a fairly regular podcast, and have interviewed digital design sustainability experts such as Tom Greenwood, Hannah Smith and Tim Frick as well as stalwarts such as Don Norman. https://sustainableuxnetwork.com/#podcast and https://open.spotify.com/show/4PzK5bq6Q8x7NOcEPl4I6j
 
-- [ ] **The Green the Web podcast:** solo effort by Sandy Dähnert with some good introductory material. There is also a newsletter and some other useful resources. https://greentheweb.com/podcast/
+- **The Green the Web podcast:** solo effort by Sandy Dähnert with some good introductory material. There is also a newsletter and some other useful resources. https://greentheweb.com/podcast/
 
 ### 5. Online courses
 #### E-learning 
-- [ ] **Career Essentials in Sustainable Tech by Microsoft and LinkedIn.** About 3.5 hours. A good overall introduction to the topic of sustainability. Covers areas such as Net Zero, carbon accounting, the circular economy, LCAs, procurement as well as some light-touch information on why digital services must also transition to being sustainable. The digital part of the course makes some claims that could be questioned or challenged. Requires a LinkedIn account. 
+- **Career Essentials in Sustainable Tech by Microsoft and LinkedIn.** About 3.5 hours. A good overall introduction to the topic of sustainability. Covers areas such as Net Zero, carbon accounting, the circular economy, LCAs, procurement as well as some light-touch information on why digital services must also transition to being sustainable. The digital part of the course makes some claims that could be questioned or challenged. Requires a LinkedIn account. 
 https://www.linkedin.com/learning/paths/career-essentials-in-sustainable-tech-by-microsoft-and-linkedin
  
 
