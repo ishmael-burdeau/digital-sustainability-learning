@@ -1,7 +1,11 @@
 
   
 
+  
+
 # Digital sustainability for communicators
+
+  
 
   
 
@@ -9,7 +13,11 @@ The following is a list of material designed to support those wishing to influen
 
   
 
+  
+
 ## 1. Essentials
+
+  
 
   
 
@@ -17,7 +25,11 @@ The following is a list of material designed to support those wishing to influen
 
   
 
+  
+
 There are many communities which are worth joining within the government and public sector which can increase your knowledge and expand your network.
+
+  
 
   
 
@@ -25,7 +37,11 @@ There are many communities which are worth joining within the government and pub
 
   
 
+  
+
 - International group of tech workers, organising events and publishers of Branch magazine. Active Slack community. [https://climateaction.tech/](https://climateaction.tech/)
+
+  
 
   
 
@@ -33,7 +49,11 @@ There are many communities which are worth joining within the government and pub
 
   
 
+  
+
 -  **GOV News**. cross-government informal community space for the UK public sector. [https://community.gov.news](https://community.gov.news)
+
+  
 
   
 
@@ -41,17 +61,25 @@ There are many communities which are worth joining within the government and pub
 
   
 
+  
+
 -  **Monthly X-gov climate show and tells**. As the name suggests, this group meets monthly to share work being done across the public sector and wider. The format is 5 minutes to present, 5 minutes Q&A. See [http://bit.ly/govclimateinfo](http://bit.ly/govclimateinfo) and [http://bit.ly/climatespeak](http://bit.ly/climatespeak)
+
+  
 
   
 
 -  **Civil Service Environment Network (CSEN)**. General-purpose group which publishes articles and organises occasional events. You must be a civil servant to join. [https://www.civilserviceenvironmentnetwork.org/](https://www.civilserviceenvironmentnetwork.org/)
 
--
+  
 
 #### Other
 
+  
+
 -  **Institute of Environmental Management and Assessment (IEMA**). A global professional body which has good representation in the UK public sector. Your department should be able to fund your membership. [https://www.iema.net/](https://www.iema.net/)
+
+  
 
   
 
@@ -59,7 +87,11 @@ There are many communities which are worth joining within the government and pub
 
   
 
+  
+
 -  **Community 10,000**. DWP-supported volunteering initiative. If you are not in DWP, then ask, your department or employer may offer something similar. Volunteering on nature-based activities is a great way to reconnect and engage with other like-minded people. [https://dwpdigital.blog.gov.uk/2020/03/13/digging-wheelbarrows-and-picks-dwp-digital-volunteers-in-the-community/](https://dwpdigital.blog.gov.uk/2020/03/13/digging-wheelbarrows-and-picks-dwp-digital-volunteers-in-the-community/)
+
+  
 
   
 
@@ -67,15 +99,21 @@ There are many communities which are worth joining within the government and pub
 
   
 
+  
+
 -  **Digital Collage**. Similar to the Climate Fresk, but looking at the impact of digital activity. [https://digitalcollage.org/index.html](https://digitalcollage.org/index.html)
+
+  
 
   
 
 -  **Carbon Literacy**. According to their website, 'Learners who have completed a day’s worth of Carbon Literacy learning can be certified as ‘Carbon Literate’' There are options for both individuals and organisations. [https://carbonliteracy.com/individual/courses/](https://carbonliteracy.com/individual/courses/)
 
--
+  
 
 -  **Giki Zero**. There are quite a few online carbon calculators and apps, Giki has a free website and mobile app to help you calculate your own footprint, combined with education, nudges and challenges. Why not test it out on your own or with a few colleagues or friends? h[ttps://zero.giki.earth/](ttps://zero.giki.earth/)
+
+  
 
   
 
@@ -83,7 +121,11 @@ There are many communities which are worth joining within the government and pub
 
   
 
+  
+
 -  **The Systems Iceberg Explained** - A systems thinking model that is useful when considering approaches to addressing issues such as sustainability and the environment. [https://www.youtube.com/watch?v=y6h2_EcOOcM](https://www.youtube.com/watch?v=y6h2_EcOOcM)
+
+  
 
   
 
@@ -91,7 +133,11 @@ There are many communities which are worth joining within the government and pub
 
   
 
+  
+
 *  **BBC News: AI Decoded** Excellent report on the environmental impacts of AI with a panel of very knowledgable experts. Although it's about AI, it covers many other important areas of digital sustainability. [https://www.youtube.com/watch?v=fjNacsyp28s](https://www.youtube.com/watch?v=fjNacsyp28s)
+
+  
 
   
 
@@ -99,7 +145,11 @@ There are many communities which are worth joining within the government and pub
 
   
 
+  
+
 ### Digital footprint tools (suggestion - try 1)
+
+  
 
   
 
@@ -107,11 +157,17 @@ The following 2 tools help calculate your online footprint. Sadly there is no re
 
   
 
-* https://myimpact.isit-europe.org/. Excellent tool for estimating the emissions from typical work and home digital activities. Unfortunately the calculator only has carbon intensity data for France, Belgium and the Netherlands. Belgium is the most similar to the UK for this (see https://app.electricitymaps.com to understand this further).
+  
+
+* [https://myimpact.isit-europe.org/](https://myimpact.isit-europe.org/). Excellent tool for estimating the emissions from typical work and home digital activities. Unfortunately the calculator only has carbon intensity data for France, Belgium and the Netherlands. Belgium is the most similar to the UK for this (see [https://app.electricitymaps.com](https://app.electricitymaps.com) to understand this further).
 
   
 
-* https://impactco2.fr/usagenumerique/. Related to the previous site, but with some very good calculations for things like sending emails and use of network (4G vs. Wifi). It's in French and uses French emissions factors, which makes it less than ideal. But still an excellent tool and reference source. The French are certainly leading in this area.
+  
+
+* [https://impactco2.fr/usagenumerique/](https://impactco2.fr/usagenumerique/). Related to the previous site, but with some very good calculations for things like sending emails and use of network (4G vs. Wifi). It's in French and uses French emissions factors, which makes it less than ideal. But still an excellent tool and reference source. The French are certainly leading in this area.
+
+  
 
   
 
@@ -121,31 +177,47 @@ The following 2 tools help calculate your online footprint. Sadly there is no re
 
   
 
+  
+
 ### Other websites to explore (suggestion - explore 2)
 
   
 
-*  **Electricity Maps** - the leading tool for understanding carbon intensity. https://app.electricitymaps.com/map
+  
+
+*  **Electricity Maps** - the leading tool for understanding carbon intensity. [https://app.electricitymaps.com/map](https://app.electricitymaps.com/map)
 
   
 
-*  **UK National Grid maps** - there are many sites and APIs offering this, here are some good ones. https://www.carbonintensity.org.uk/, https://www.energydashboard.co.uk/live and https://electricityproduction.uk/
+  
+
+*  **UK National Grid maps** - there are many sites and APIs offering this, here are some good ones. [https://www.carbonintensity.org.uk/](https://www.carbonintensity.org.uk/), [https://www.energydashboard.co.uk/live](https://www.energydashboard.co.uk/live) and [https://electricityproduction.uk/](https://electricityproduction.uk/)
 
   
 
-*  **Branch Magazine** - online magazine for green digital enthusiasts. The website design responds to the carbon intensity of the UK grid, which is pretty cool. https://branch.climateaction.tech/
+  
+
+*  **Branch Magazine** - online magazine for green digital enthusiasts. The website design responds to the carbon intensity of the UK grid, which is pretty cool. [https://branch.climateaction.tech/](https://branch.climateaction.tech/)
 
   
 
-*  **Ecograder** - online tool (one of many) which creates a report on how well a web page performs from an environmental perspective. There are many similar tools out there, but Ecograder produces some of the clearest and most actionable reports. https://ecograder.com/
+  
+
+*  **Ecograder** - online tool (one of many) which creates a report on how well a web page performs from an environmental perspective. There are many similar tools out there, but Ecograder produces some of the clearest and most actionable reports. [https://ecograder.com/](https://ecograder.com/)
 
   
 
-*  **Reslio IT hardware database** - amazing list of hardware and its environmental impact. https://db.resilio.tech/
+  
+
+*  **Reslio IT hardware database** - amazing list of hardware and its environmental impact. [https://db.resilio.tech/](https://db.resilio.tech/)
 
   
 
-*  **NASA Global Climate Change Interactives** - wide range of interactive visualisations related to climate and environment. https://climate.nasa.gov/explore/interactives/
+  
+
+*  **NASA Global Climate Change Interactives** - wide range of interactive visualisations related to climate and environment. [https://climate.nasa.gov/explore/interactives/](https://climate.nasa.gov/explore/interactives/)
+
+  
 
   
 
@@ -153,7 +225,11 @@ The following 2 tools help calculate your online footprint. Sadly there is no re
 
   
 
+  
+
 The following are recommended for anyone wishing to discuss climate and environmental issues, which is often challenging. For books related to digital sustainability, check the [technologists learning pathway](technologists.md)
+
+  
 
   
 
@@ -163,11 +239,19 @@ The following are recommended for anyone wishing to discuss climate and environm
 
   
 
+  
+
 -  **Climate Changemaker Playbook** This palybook is based on 3 simple strategies supported by 9 tactics. The overall approach is research-based and is supported by case studies. Succinct and practical, this is a great way to get started. Free 36 page PDF. [https://www.ashoka.org/en-ch/climate-changemaking-playbook](https://www.ashoka.org/en-ch/climate-changemaking-playbook)
+
+  
 
 -
 
+  
+
 -  **Talking Climate: From Research to Practice in Public Engagement** This books challenges assumptions around climate communications – for example myths around what motivates people. Available from the DWP Library for free at [https://ebookcentral.proquest.com/lib/dwp/detail.action?docID=4732575](https://ebookcentral.proquest.com/lib/dwp/detail.action?docID=4732575) or on Climate Outreach at [https://climateoutreach.org/reports/book-talking-climate-from-research-to-practice-in-public-engagement/](https://climateoutreach.org/reports/book-talking-climate-from-research-to-practice-in-public-engagement/) (first chapter is free)
+
+  
 
   
 
@@ -175,7 +259,11 @@ The following are recommended for anyone wishing to discuss climate and environm
 
   
 
+  
+
 -  **How to Talk About Climate Change in a Way That Makes a Difference** Highly recommended if you are interested in how to discuss climate change with those perhaps less engaged than you. The author takes a psychological approach, considering the roles of different emotions and how they affect our willingness to engage or act. [https://www.amazon.co.uk/About-Climate-Change-Makes-Difference/dp/1911632760](https://www.amazon.co.uk/About-Climate-Change-Makes-Difference/dp/1911632760) or [https://www.audible.co.uk/pd/How-to-Talk-About-Climate-Change-Audiobook/100403055X](https://www.audible.co.uk/pd/How-to-Talk-About-Climate-Change-Audiobook/100403055X)
+
+  
 
   
 
@@ -183,7 +271,11 @@ The following are recommended for anyone wishing to discuss climate and environm
 
   
 
+  
+
 -  **Not the End of the World** If you are looking for an optimistic read, this is worth checking out. Hannah Ritchie from Our World in Data, goes pretty deep to take apart some of the more common misunderstandings around the wider questions of sustainability (nt just climate change). A very hopeful read, but also challenging in many places, as she takes apart many of the myths of eco-doomerism. [https://www.amazon.co.uk/Not-End-World-Generation-Sustainable/dp/1784745006](https://www.amazon.co.uk/Not-End-World-Generation-Sustainable/dp/1784745006)
+
+  
 
   
 
@@ -191,7 +283,11 @@ The following are recommended for anyone wishing to discuss climate and environm
 
   
 
+  
+
 ### Articles to read (suggestion - read 2 or 3 that look interesting)
+
+  
 
   
 
@@ -199,7 +295,11 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 
   
 
+  
+
 #### General interest
+
+  
 
   
 
@@ -207,7 +307,11 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 
   
 
+  
+
 #### Greenwashing
+
+  
 
   
 
@@ -215,7 +319,11 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 
   
 
+  
+
 *  **Our Digital Greenwashing Guide** - good summary of issues related to digital greenwashing. [https://www.mightybytes.com/blog/digital-greenwashing-guide/](https://www.mightybytes.com/blog/digital-greenwashing-guide/)
+
+  
 
   
 
@@ -223,7 +331,11 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 
   
 
+  
+
 #### Data centres
+
+  
 
   
 
@@ -231,7 +343,11 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 
   
 
+  
+
 *  **Why Cloud Zombies Are Destroying the Planet and How You Can Stop Them** - [https://www.infoq.com/news/2023/03/stop-cloud-zombies-qcon/](https://www.infoq.com/news/2023/03/stop-cloud-zombies-qcon/)
+
+  
 
   
 
@@ -239,7 +355,11 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 
   
 
+  
+
 #### Hardware and e-waste
+
+  
 
   
 
@@ -247,7 +367,11 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 
   
 
-*  **UK generated 2nd largest amount of e-waste as a country in 2022** - eye-opening summary of the UK's e-waste problem.  [https://www.circularonline.co.uk/news/uk-generated-2nd-largest-amount-of-e-waste-as-a-country-in-2022/](https://www.circularonline.co.uk/news/uk-generated-2nd-largest-amount-of-e-waste-as-a-country-in-2022/)
+  
+
+*  **UK generated 2nd largest amount of e-waste as a country in 2022** - eye-opening summary of the UK's e-waste problem. [https://www.circularonline.co.uk/news/uk-generated-2nd-largest-amount-of-e-waste-as-a-country-in-2022/](https://www.circularonline.co.uk/news/uk-generated-2nd-largest-amount-of-e-waste-as-a-country-in-2022/)
+
+  
 
   
 
@@ -255,7 +379,11 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 
   
 
+  
+
 #### Climate psychology
+
+  
 
   
 
@@ -263,7 +391,11 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 
   
 
+  
+
 *  **Do men and women think about climate change differently?** - condensed version of the research discussed above. [https://www.economist.com/graphic-detail/2022/07/22/do-men-and-women-think-about-climate-change-differently](https://www.economist.com/graphic-detail/2022/07/22/do-men-and-women-think-about-climate-change-differently)
+
+  
 
   
 
@@ -271,7 +403,11 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 
   
 
+  
+
 *  **Sustainability, a surprisingly successful KPI: GreenOps survey results** - survey results, indicating that tech workers care more about carbon than cost, and the benefits of a GreenOps approach. [https://climateaction.tech/blog/sustainability-kpi-greenops-survey-results/](https://climateaction.tech/blog/sustainability-kpi-greenops-survey-results/)
+
+  
 
   
 
@@ -279,7 +415,11 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 
   
 
+  
+
 #### Technology
+
+  
 
   
 
@@ -287,7 +427,11 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 
   
 
+  
+
 -  **Green IO:** weekly podcast hosted by Gaël Duez on green software and ICT. Recommended. [https://greenio.gaelduez.com/](https://greenio.gaelduez.com/)
+
+  
 
   
 
@@ -295,11 +439,19 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 
   
 
+  
+
 -  **Outrage + Optimism**. Not a tech podcast, but worth listening to as a leading climate change resource. [https://www.outrageandoptimism.org/](https://www.outrageandoptimism.org/) or [https://open.spotify.com/show/5Rbif0NfMJDT2zVaadZBBq](https://open.spotify.com/show/5Rbif0NfMJDT2zVaadZBBq)
+
+  
 
 -
 
+  
+
 *  **Civil Service Climate + Environment Network**. Not a tech podcast either. But relevant to civil servants. [https://www.civilserviceenvironmentnetwork.org/environment-deep-dive](https://www.civilserviceenvironmentnetwork.org/environment-deep-dive)
+
+  
 
   
 
@@ -307,7 +459,11 @@ There are hundreds of recent articles on these topics, here is a sampling of a f
 
   
 
+  
+
 ### People to follow (suggestion - follow 2 or 3)
+
+  
 
   
 
@@ -315,7 +471,11 @@ LinkedIn is a very useful tool for engaging with the Green IT movement. The foll
 
   
 
+  
+
 *  **Anne Currie** - co-author of Building Green Software, green software trainer and advocate. [https://www.linkedin.com/in/annecurrie/](https://www.linkedin.com/in/annecurrie/)
+
+  
 
   
 
@@ -323,7 +483,11 @@ LinkedIn is a very useful tool for engaging with the Green IT movement. The foll
 
   
 
+  
+
 *  **Professor Ed Hawkins MBE** - Professor of Climate Science, creator of Warming Stripes. [https://www.linkedin.com/in/edhawkinsclimate/](https://www.linkedin.com/in/edhawkinsclimate/)
+
+  
 
   
 
@@ -331,7 +495,11 @@ LinkedIn is a very useful tool for engaging with the Green IT movement. The foll
 
   
 
+  
+
 *  **Gael Duez** - Podcast host of Green.io. [https://www.linkedin.com/in/gaelduez/](https://www.linkedin.com/in/gaelduez/)
+
+  
 
   
 
@@ -339,7 +507,11 @@ LinkedIn is a very useful tool for engaging with the Green IT movement. The foll
 
   
 
+  
+
 *  **Hannah Smith** - Director of Operations at the Green Web Foundation. [https://www.linkedin.com/in/hanopcan/](https://www.linkedin.com/in/hanopcan/)
+
+  
 
   
 
@@ -347,7 +519,11 @@ LinkedIn is a very useful tool for engaging with the Green IT movement. The foll
 
   
 
+  
+
 *  **Maxime Blondeau** - Photographer, map-maker and storyteller. Posts are in French,, but his photos and maps are amazing. [https://www.linkedin.com/in/maxime-blondeau-%F0%9F%8C%B1-%E2%99%BE-a71b6521/](https://www.linkedin.com/in/maxime-blondeau-%F0%9F%8C%B1-%E2%99%BE-a71b6521/)
+
+  
 
   
 
@@ -355,7 +531,11 @@ LinkedIn is a very useful tool for engaging with the Green IT movement. The foll
 
   
 
+  
+
 *  **Peter Campbell** - Director of Green Software at Kainos and author of Digital Sustainability: The Need for Greener Software. [https://www.linkedin.com/in/petercampell/](https://www.linkedin.com/in/petercampell/)
+
+  
 
   
 
@@ -363,7 +543,11 @@ LinkedIn is a very useful tool for engaging with the Green IT movement. The foll
 
   
 
+  
+
 *  **Tim Frick** - founder of Mightybytes and author of Designing for Sustainability. [https://www.linkedin.com/in/timfrick/](https://www.linkedin.com/in/timfrick/)
+
+  
 
   
 
@@ -371,11 +555,17 @@ LinkedIn is a very useful tool for engaging with the Green IT movement. The foll
 
   
 
+  
+
 *  **Nate Hagens** - host of the Great Simplification podcast. h[ttps://www.linkedin.com/in/nate-hagens-004810b/](ttps://www.linkedin.com/in/nate-hagens-004810b/)
 
   
 
+  
+
 ## Glossary
+
+  
 
   
 
