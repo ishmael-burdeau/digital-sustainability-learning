@@ -16,7 +16,6 @@ If you are new to the topic of digital sustainability, then the following resour
 
 * [communicating and influencing](communicators.md)
 
-  
 
 ## Step 1: understand the problem (15 minutes)
 
@@ -24,9 +23,7 @@ If you are new to the topic of digital sustainability, then the following resour
 
 -  **Digital Decarbonisation Explained** (2:09) - brief and tantalising summary of the environmental cost of data. [https://www.youtube.com/watch?v=WTPl5LlxYwA](https://www.youtube.com/watch?v=WTPl5LlxYwA)
 
--  **What the AI Boom Means for Carbon Emissions** (1:45)
-
-All the talk is about AI, but one big (dark) secret is that AI generates far more CO2 than 'traditional' computing. [https://www.youtube.com/watch?v=LDfbGk9dpWw](https://www.youtube.com/watch?v=LDfbGk9dpWw)
+-  **What the AI Boom Means for Carbon Emissions** (1:45) All the talk is about AI, but one big (dark) secret is that AI generates far more CO2 than 'traditional' computing. [https://www.youtube.com/watch?v=LDfbGk9dpWw](https://www.youtube.com/watch?v=LDfbGk9dpWw)
 
 -  **E-waste 'drawers of doom' growing, say campaigners - BBC News** (3:43) It's easy to forget that most of our digital carbon footprint comes from manufacturing equipment as opposed to use. What is in your drawer of doom? [https://www.youtube.com/watch?v=gAAWVfcnk3A](https://www.youtube.com/watch?v=gAAWVfcnk3A)
 
