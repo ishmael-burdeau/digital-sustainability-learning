@@ -44,6 +44,8 @@ A few examples of carbon-aware web design and guidance.
 
 *  **Branch Magazine** - online magazine for green digital enthusiasts. The website design responds to the carbon intensity of the UK grid, which is pretty cool. [https://branch.climateaction.tech/](https://branch.climateaction.tech/)
 
+* **CarbonAware** - another very good example of a carbon aware website, with the site responding to the grid intensity from a wide range of countries. [https://carbon-aware-website.fly.dev/](https://carbon-aware-website.fly.dev/)
+
 *  **Fershad Irani** (personal site). Good example of a carbon-aware website. [https://fershad.com/carbon-aware-site/](https://fershad.com/carbon-aware-site/)
 
 ### 2. Carbon intensity tools
