@@ -226,23 +226,15 @@ The following are recommended for anyone wishing to understand leadership from a
 
 *  **Sustainable IT Playbook for Technology Leaders** - Very good audio book, recommended. Covers all aspects of developing a sustainable ICT strategy. [https://www.audible.co.uk/pd/Sustainable-IT-Playbook-for-Technology-Leaders-Audiobook/B0BSRCBCRL](https://www.audible.co.uk/pd/Sustainable-IT-Playbook-for-Technology-Leaders-Audiobook/B0BSRCBCRL)
 
-  
 
 *  **Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist** A sustainability and economics best seller. [https://www.amazon.co.uk/Doughnut-Economics-Seven-21st-Century-Economist/dp/1847941397/](https://www.amazon.co.uk/Doughnut-Economics-Seven-21st-Century-Economist/dp/1847941397/)
 
-  
 
 *  **Net Positive: How Courageous Companies Thrive by Giving More Than They Take** - Paul Polman argues that the companies of the future will profit by fixing the world's problems, not creating them. [https://www.amazon.co.uk/Net-Positive-Courageous-Companies-Thrive/dp/1647821304](https://www.amazon.co.uk/Net-Positive-Courageous-Companies-Thrive/dp/1647821304)
 
-*
-
 ### 4. Articles to read
 
-  
-
 There are hundreds of recent articles on these topics, here is a sampling of a few which are of interest.
-
-  
 
 #### International perspectives
 

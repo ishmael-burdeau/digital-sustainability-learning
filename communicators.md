@@ -1,25 +1,9 @@
-
-  
-
-  
-
 # Digital sustainability for communicators
 
-  
-
-  
 
 The following is a list of material designed to support those wishing to influence others in the change process. No matter what your day job or official role is, the ability to communicate effectively is vital. Working through some of the material will build your confidence as a Practitioner, especially the material in Essentials. Completing the most of the material will put you on the path towards Expert.
 
-  
-
-  
-
 ## 1. Essentials
-
-  
-
-  
 
 ### Communities to join (suggestion - join 2)
 
@@ -187,9 +171,6 @@ The following 2 tools help calculate your online footprint. Sadly there is no re
 
 *  **Electricity Maps** - the leading tool for understanding carbon intensity. [https://app.electricitymaps.com/map](https://app.electricitymaps.com/map)
 
-  
-
-  
 
 *  **UK National Grid maps** - there are many sites and APIs offering this, here are some good ones. [https://www.carbonintensity.org.uk/](https://www.carbonintensity.org.uk/), [https://www.energydashboard.co.uk/live](https://www.energydashboard.co.uk/live) and [https://electricityproduction.uk/](https://electricityproduction.uk/)
 
