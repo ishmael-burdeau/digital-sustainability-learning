@@ -17,13 +17,9 @@ These two courses are essential for understanding the basics of Green Software a
 
 -  **Sustainable software engineering overview** Great into video series by Asim Hussain (Green Software Foundation). Very digestible, only takes about 30 minutes to complete. [https://learn.microsoft.com/en-us/training/modules/sustainable-software-engineering-overview/](https://learn.microsoft.com/en-us/training/modules/sustainable-software-engineering-overview/)
 
--  **Green Software Practitioner** Slightly more in-depth online course. Takes 2-3 hours to complete. Recommended. Take the short exam with the Linux Foundation to get certified. [https://learn.greensoftware.foundation/](https://learn.greensoftware.foundation/) and [https://training.linuxfoundation.org/training/green-software-for-practitioners-lfc131/](https://training.linuxfoundation.org/training/green-software-for-practitioners-lfc131/)
-
-  
+-  **Green Software Practitioner** Slightly more in-depth online course. Takes 2-3 hours to complete. Recommended. Take the short exam with the Linux Foundation to get certified. [https://learn.greensoftware.foundation/](https://learn.greensoftware.foundation/) and [https://training.linuxfoundation.org/training/green-software-for-practitioners-lfc131/](https://training.linuxfoundation.org/training/green-software-for-practitioners-lfc131/) 
 
 ### 2. Videos
-
-  
 
 -  **Beth yw cynaliadwyedd digidol? / What is digital sustainability?** Panel discussion by the Centre for Digital Public Services in Wales. Covers all the main topics related to digital sustainability, especially from a UK government perspective. Panellists include Hannah Smith from the Green Web Foundation as well experts from Defra, Wholegrain Digital and the Centre for Sustainability. Despite the title, the content is all in English. The first 25 minutes are devoted to each panelist speaking for 5 minutes, followed by a wider discusson. It's generally a non-technical discusson, so suitable for all. 1 hour 12 minutes, but broken up into clear chapters. [https://youtu.be/Wn5urKcquFE?si=84Th0OkXNlEPjvGd](https://youtu.be/Wn5urKcquFE?si=84Th0OkXNlEPjvGd)
 

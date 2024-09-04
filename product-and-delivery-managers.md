@@ -35,8 +35,6 @@ Great into video series by Asim Hussain (Green Software Foundation). Very digest
 
 *  **BBC News: AI Decoded** Excellent report on the environmental impacts of AI with a panel of very knowledgable experts. Although it's about AI, it covers many other important areas of digital sustainability. [https://www.youtube.com/watch?v=fjNacsyp28s](https://www.youtube.com/watch?v=fjNacsyp28s)
 
-  
-
 ### 3. Self-evaluation tools
 
 You are no doubt familiar with maturity matrices. They are a good way to evaluate the maturity of your team and organisation. The following two are focussed on digital sustainability, and familiarity with these is an excellent way to measure and improve the sustainability of your team and the products you are building.
@@ -44,8 +42,6 @@ You are no doubt familiar with maturity matrices. They are a good way to evaluat
 -  **Green Software Maturity Matrix**. Self-evaluation tool by the GSF to help organisations understand their level of maturity in this area. This is good, but also high level.  [https://maturity-matrix.greensoftware.foundation/](https://maturity-matrix.greensoftware.foundation/)
 
 ![GSF Maturity Matrix](gsf_maturity_matrix.svg)
-
-  
 
 -  **GreenGauge.** GreenGauge is an open source tool developed by Kainos to support teams assess their maturity. [https://github.com/KainosSoftwareLtd/GreenGauge/blob/main/docs/service-design-matrix.md.](https://github.com/KainosSoftwareLtd/GreenGauge/blob/main/docs/service-design-matrix.md.) A sample output from GreenGauge can be found below.
 
@@ -69,21 +65,13 @@ You are no doubt familiar with maturity matrices. They are a good way to evaluat
 
 -  **GOV.UK Technology Code of Practice**. Point 12 outlines the GOV.UK position on sustainability in ICT. [https://www.gov.uk/guidance/make-your-technology-sustainable](https://www.gov.uk/guidance/make-your-technology-sustainable)
 
-  
-
 -  **Web Sustainability Guidelines.**
 
 Now in their sixth draft, the Web Sustainability Guidelines consist of 94 recommendations to help teams create more sustainable digital products and services. [https://sustainablewebdesign.org/guidelines/](https://sustainablewebdesign.org/guidelines/)
 
-  
-
--  **Planet Centred Design**. A proposal by Defra to support those designing and building digital services. See [https://defradigital.blog.gov.uk/2023/03/06/how-being-planet-centric-can-really-make-a-difference-when-designing-services/](https://defradigital.blog.gov.uk/2023/03/06/how-being-planet-centric-can-really-make-a-difference-when-designing-services/) and [https://drive.google.com/file/d/161GLM3MiuLmehr4zR6yfmFRV67ON4ml1/view](https://drive.google.com/file/d/161GLM3MiuLmehr4zR6yfmFRV67ON4ml1/view)
-
-  
+-  **Planet Centred Design**. A proposal by Defra to support those designing and building digital services. See [https://greenerservices.github.io/](https://greenerservices.github.io/)
 
 ## Websites to explore
-
-  
 
 ### 1. Carbon intensity tools
 

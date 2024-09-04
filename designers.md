@@ -31,7 +31,8 @@ Great into video series by Asim Hussain (Green Software Foundation). Very digest
 Now in their sixth draft, the Web Sustainability Guidelines consist of 94 recommendations to help teams create more sustainable digital products and services. [https://sustainablewebdesign.org/guidelines/](https://sustainablewebdesign.org/guidelines/)
 
 -  **The intro guide to digital eco-design**. French-led project for designers, developed in part by the team which helped write the W3C Web Sustainability Guidelines. See The intro guide to digital eco-design. In French, but can be made accessible using auto-translate tools. See [https://eco-conception.designersethiques.org/guide/en/](https://eco-conception.designersethiques.org/guide/en/)
--  **Planet Centred Design**. A proposal by Defra to support those designing and building digital services. See [https://defradigital.blog.gov.uk/2023/03/06/how-being-planet-centric-can-really-make-a-difference-when-designing-services/](https://defradigital.blog.gov.uk/2023/03/06/how-being-planet-centric-can-really-make-a-difference-when-designing-services/) and [https://drive.google.com/file/d/161GLM3MiuLmehr4zR6yfmFRV67ON4ml1/view](https://drive.google.com/file/d/161GLM3MiuLmehr4zR6yfmFRV67ON4ml1/view)
+
+-  **Planet Centred Design**. A proposal by Defra to support those designing and building digital services. See [https://greenerservices.github.io/](https://greenerservices.github.io/)
 
 ## Websites to explore
 ### 1. Sustainable web design
