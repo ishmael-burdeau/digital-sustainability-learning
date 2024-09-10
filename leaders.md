@@ -118,7 +118,7 @@ Spend about 90 minutes understanding some of the key terms around digital sustai
 
 The following are recommended for anyone wishing to understand leadership from a sustainability perspective. For books related to the more technical aspects of digital sustainability, check the [technologists learning pathway](technologists.md)
 
-*  **Sustainable IT Playbook for Technology Leaders** - Very good audio book, recommended. Covers all aspects of developing a sustainable ICT strategy. [https://www.audible.co.uk/pd/Sustainable-IT-Playbook-for-Technology-Leaders-Audiobook/B0BSRCBCRL](https://www.audible.co.uk/pd/Sustainable-IT-Playbook-for-Technology-Leaders-Audiobook/B0BSRCBCRL)
+*  **Sustainable IT Playbook for Technology Leaders** - Very good audio book (printed version also available), recommended. Covers all aspects of developing a sustainable ICT strategy. [https://www.audible.co.uk/pd/Sustainable-IT-Playbook-for-Technology-Leaders-Audiobook/B0BSRCBCRL](https://www.audible.co.uk/pd/Sustainable-IT-Playbook-for-Technology-Leaders-Audiobook/B0BSRCBCRL) and [https://www.amazon.co.uk/Sustainable-Playbook-Technology-Leaders-opportunities/dp/1803230347](https://www.amazon.co.uk/Sustainable-Playbook-Technology-Leaders-opportunities/dp/1803230347)
 
 *  **Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist** A sustainability and economics best seller. [https://www.amazon.co.uk/Doughnut-Economics-Seven-21st-Century-Economist/dp/1847941397/](https://www.amazon.co.uk/Doughnut-Economics-Seven-21st-Century-Economist/dp/1847941397/)
 
